@@ -1,0 +1,27 @@
+[2023-03-17 23:00:30,443] {taskinstance.py:1159} INFO - Dependencies all met for <TaskInstance: reto_tecnico_everst.create_current_base3_copy scheduled__2023-03-17T22:00:00+00:00 [queued]>
+[2023-03-17 23:00:30,453] {taskinstance.py:1159} INFO - Dependencies all met for <TaskInstance: reto_tecnico_everst.create_current_base3_copy scheduled__2023-03-17T22:00:00+00:00 [queued]>
+[2023-03-17 23:00:30,454] {taskinstance.py:1356} INFO - 
+--------------------------------------------------------------------------------
+[2023-03-17 23:00:30,455] {taskinstance.py:1357} INFO - Starting attempt 1 of 1
+[2023-03-17 23:00:30,455] {taskinstance.py:1358} INFO - 
+--------------------------------------------------------------------------------
+[2023-03-17 23:00:30,518] {taskinstance.py:1377} INFO - Executing <Task(BashOperator): create_current_base3_copy> on 2023-03-17 22:00:00+00:00
+[2023-03-17 23:00:30,528] {standard_task_runner.py:52} INFO - Started process 596 to run task
+[2023-03-17 23:00:30,531] {standard_task_runner.py:79} INFO - Running: ['***', 'tasks', 'run', 'reto_tecnico_everst', 'create_current_base3_copy', 'scheduled__2023-03-17T22:00:00+00:00', '--job-id', '31', '--raw', '--subdir', 'DAGS_FOLDER/reto_tecnico_everst.py', '--cfg-path', '/tmp/tmpz6xenh58', '--error-file', '/tmp/tmpdcwi3a6y']
+[2023-03-17 23:00:30,532] {standard_task_runner.py:80} INFO - Job 31: Subtask create_current_base3_copy
+[2023-03-17 23:00:30,646] {task_command.py:369} INFO - Running <TaskInstance: reto_tecnico_everst.create_current_base3_copy scheduled__2023-03-17T22:00:00+00:00 [running]> on host 8b817a59af06
+[2023-03-17 23:00:30,896] {taskinstance.py:1571} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=***
+AIRFLOW_CTX_DAG_ID=reto_tecnico_everst
+AIRFLOW_CTX_TASK_ID=create_current_base3_copy
+AIRFLOW_CTX_EXECUTION_DATE=2023-03-17T22:00:00+00:00
+AIRFLOW_CTX_TRY_NUMBER=1
+AIRFLOW_CTX_DAG_RUN_ID=scheduled__2023-03-17T22:00:00+00:00
+[2023-03-17 23:00:30,898] {subprocess.py:62} INFO - Tmp dir root location: 
+ /tmp
+[2023-03-17 23:00:30,899] {subprocess.py:74} INFO - Running command: ['bash', '-c', 'cp /opt/***/data/Analytics/base_3/History/base_3_20230317_23.00.parquet /opt/***/data/Analytics/base_3/base_3_current.parquet']
+[2023-03-17 23:00:30,912] {subprocess.py:85} INFO - Output:
+[2023-03-17 23:00:30,961] {subprocess.py:96} INFO - Command exited with return code 0
+[2023-03-17 23:00:31,024] {taskinstance.py:1400} INFO - Marking task as SUCCESS. dag_id=reto_tecnico_everst, task_id=create_current_base3_copy, execution_date=20230317T220000, start_date=20230317T230030, end_date=20230317T230031
+[2023-03-17 23:00:31,105] {local_task_job.py:156} INFO - Task exited with return code 0
+[2023-03-17 23:00:31,179] {local_task_job.py:273} INFO - 0 downstream tasks scheduled from follow-on schedule check

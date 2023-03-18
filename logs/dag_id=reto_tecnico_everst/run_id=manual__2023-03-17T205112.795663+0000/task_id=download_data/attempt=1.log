@@ -1,0 +1,25 @@
+[2023-03-17 20:51:15,000] {taskinstance.py:1159} INFO - Dependencies all met for <TaskInstance: reto_tecnico_everst.download_data manual__2023-03-17T20:51:12.795663+00:00 [queued]>
+[2023-03-17 20:51:15,010] {taskinstance.py:1159} INFO - Dependencies all met for <TaskInstance: reto_tecnico_everst.download_data manual__2023-03-17T20:51:12.795663+00:00 [queued]>
+[2023-03-17 20:51:15,010] {taskinstance.py:1356} INFO - 
+--------------------------------------------------------------------------------
+[2023-03-17 20:51:15,011] {taskinstance.py:1357} INFO - Starting attempt 1 of 1
+[2023-03-17 20:51:15,011] {taskinstance.py:1358} INFO - 
+--------------------------------------------------------------------------------
+[2023-03-17 20:51:15,156] {taskinstance.py:1377} INFO - Executing <Task(PythonOperator): download_data> on 2023-03-17 20:51:12.795663+00:00
+[2023-03-17 20:51:15,169] {standard_task_runner.py:52} INFO - Started process 4404 to run task
+[2023-03-17 20:51:15,178] {standard_task_runner.py:79} INFO - Running: ['***', 'tasks', 'run', 'reto_tecnico_everst', 'download_data', 'manual__2023-03-17T20:51:12.795663+00:00', '--job-id', '236', '--raw', '--subdir', 'DAGS_FOLDER/reto_tecnico_everst.py', '--cfg-path', '/tmp/tmpfisvjcjd', '--error-file', '/tmp/tmpwy_4umb2']
+[2023-03-17 20:51:15,180] {standard_task_runner.py:80} INFO - Job 236: Subtask download_data
+[2023-03-17 20:51:15,362] {task_command.py:369} INFO - Running <TaskInstance: reto_tecnico_everst.download_data manual__2023-03-17T20:51:12.795663+00:00 [running]> on host 7d9c3e4a2f58
+[2023-03-17 20:51:15,849] {taskinstance.py:1571} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=***
+AIRFLOW_CTX_DAG_ID=reto_tecnico_everst
+AIRFLOW_CTX_TASK_ID=download_data
+AIRFLOW_CTX_EXECUTION_DATE=2023-03-17T20:51:12.795663+00:00
+AIRFLOW_CTX_TRY_NUMBER=1
+AIRFLOW_CTX_DAG_RUN_ID=manual__2023-03-17T20:51:12.795663+00:00
+[2023-03-17 20:51:20,862] {reto_tecnico_everst.py:41} INFO - Generando descarga del GZ
+[2023-03-17 20:51:24,772] {reto_tecnico_everst.py:48} INFO - Guardando la base generada desde el API, path: dags/data/Raw/base_api/base_20230317_20.51.json
+[2023-03-17 20:51:37,193] {python.py:173} INFO - Done. Returned value was: None
+[2023-03-17 20:51:37,209] {taskinstance.py:1400} INFO - Marking task as SUCCESS. dag_id=reto_tecnico_everst, task_id=download_data, execution_date=20230317T205112, start_date=20230317T205115, end_date=20230317T205137
+[2023-03-17 20:51:37,436] {local_task_job.py:156} INFO - Task exited with return code 0
+[2023-03-17 20:51:37,609] {local_task_job.py:273} INFO - 1 downstream tasks scheduled from follow-on schedule check

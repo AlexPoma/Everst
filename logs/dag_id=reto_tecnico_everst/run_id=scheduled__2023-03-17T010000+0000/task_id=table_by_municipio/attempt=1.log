@@ -1,0 +1,25 @@
+[2023-03-17 02:00:24,406] {taskinstance.py:1159} INFO - Dependencies all met for <TaskInstance: reto_tecnico_everst.table_by_municipio scheduled__2023-03-17T01:00:00+00:00 [queued]>
+[2023-03-17 02:00:24,418] {taskinstance.py:1159} INFO - Dependencies all met for <TaskInstance: reto_tecnico_everst.table_by_municipio scheduled__2023-03-17T01:00:00+00:00 [queued]>
+[2023-03-17 02:00:24,418] {taskinstance.py:1356} INFO - 
+--------------------------------------------------------------------------------
+[2023-03-17 02:00:24,419] {taskinstance.py:1357} INFO - Starting attempt 1 of 1
+[2023-03-17 02:00:24,419] {taskinstance.py:1358} INFO - 
+--------------------------------------------------------------------------------
+[2023-03-17 02:00:24,499] {taskinstance.py:1377} INFO - Executing <Task(PythonOperator): table_by_municipio> on 2023-03-17 01:00:00+00:00
+[2023-03-17 02:00:24,508] {standard_task_runner.py:52} INFO - Started process 1680 to run task
+[2023-03-17 02:00:24,512] {standard_task_runner.py:79} INFO - Running: ['***', 'tasks', 'run', 'reto_tecnico_everst', 'table_by_municipio', 'scheduled__2023-03-17T01:00:00+00:00', '--job-id', '144', '--raw', '--subdir', 'DAGS_FOLDER/reto_tecnico_everst.py', '--cfg-path', '/tmp/tmpzm_yxz8s', '--error-file', '/tmp/tmpy_v4j5wn']
+[2023-03-17 02:00:24,513] {standard_task_runner.py:80} INFO - Job 144: Subtask table_by_municipio
+[2023-03-17 02:00:24,602] {task_command.py:369} INFO - Running <TaskInstance: reto_tecnico_everst.table_by_municipio scheduled__2023-03-17T01:00:00+00:00 [running]> on host 7d9c3e4a2f58
+[2023-03-17 02:00:24,831] {taskinstance.py:1571} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=***
+AIRFLOW_CTX_DAG_ID=reto_tecnico_everst
+AIRFLOW_CTX_TASK_ID=table_by_municipio
+AIRFLOW_CTX_EXECUTION_DATE=2023-03-17T01:00:00+00:00
+AIRFLOW_CTX_TRY_NUMBER=1
+AIRFLOW_CTX_DAG_RUN_ID=scheduled__2023-03-17T01:00:00+00:00
+[2023-03-17 02:00:24,843] {reto_tecnico_everst.py:54} INFO - Leyendo la base extraida del API
+[2023-03-17 02:02:12,603] {reto_tecnico_everst.py:70} INFO - Guardando la base tabla por municipio en formato parquet, path: dags/data/Staging/base_2/base_20230317_02.02.parquet
+[2023-03-17 02:02:13,119] {python.py:173} INFO - Done. Returned value was: None
+[2023-03-17 02:02:13,138] {taskinstance.py:1400} INFO - Marking task as SUCCESS. dag_id=reto_tecnico_everst, task_id=table_by_municipio, execution_date=20230317T010000, start_date=20230317T020024, end_date=20230317T020213
+[2023-03-17 02:02:13,242] {local_task_job.py:156} INFO - Task exited with return code 0
+[2023-03-17 02:02:13,370] {local_task_job.py:273} INFO - 1 downstream tasks scheduled from follow-on schedule check

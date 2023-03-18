@@ -1,0 +1,9 @@
+data/Raw/base_api/ filter=lfs diff=lfs merge=lfs -text
+data/Raw/base_api/base_20230317_21.05.json filter=lfs diff=lfs merge=lfs -text
+data/Raw/base_api/base_20230317_21.09.json.json filter=lfs diff=lfs merge=lfs -text
+data/Raw/base_api/base_20230317_21.09.json filter=lfs diff=lfs merge=lfs -text
+data/Raw/base_api/base_20230317_21.20.json filter=lfs diff=lfs merge=lfs -text
+data/Raw/base_api/base_20230317_21.27.json filter=lfs diff=lfs merge=lfs -text
+data/Raw/base_api/base_20230317_23.00.json filter=lfs diff=lfs merge=lfs -text
+data/Raw/base_api/base_20230317_23.14.json filter=lfs diff=lfs merge=lfs -text
+data/Raw/base_api/base_20230317_23.18.json filter=lfs diff=lfs merge=lfs -text

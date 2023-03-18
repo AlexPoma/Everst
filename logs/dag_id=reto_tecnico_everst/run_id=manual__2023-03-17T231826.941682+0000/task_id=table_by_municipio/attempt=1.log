@@ -1,0 +1,48 @@
+[2023-03-17 23:18:57,408] {taskinstance.py:1159} INFO - Dependencies all met for <TaskInstance: reto_tecnico_everst.table_by_municipio manual__2023-03-17T23:18:26.941682+00:00 [queued]>
+[2023-03-17 23:18:57,418] {taskinstance.py:1159} INFO - Dependencies all met for <TaskInstance: reto_tecnico_everst.table_by_municipio manual__2023-03-17T23:18:26.941682+00:00 [queued]>
+[2023-03-17 23:18:57,419] {taskinstance.py:1356} INFO - 
+--------------------------------------------------------------------------------
+[2023-03-17 23:18:57,419] {taskinstance.py:1357} INFO - Starting attempt 1 of 1
+[2023-03-17 23:18:57,420] {taskinstance.py:1358} INFO - 
+--------------------------------------------------------------------------------
+[2023-03-17 23:18:57,573] {taskinstance.py:1377} INFO - Executing <Task(PythonOperator): table_by_municipio> on 2023-03-17 23:18:26.941682+00:00
+[2023-03-17 23:18:57,584] {standard_task_runner.py:52} INFO - Started process 853 to run task
+[2023-03-17 23:18:57,587] {standard_task_runner.py:79} INFO - Running: ['***', 'tasks', 'run', 'reto_tecnico_everst', 'table_by_municipio', 'manual__2023-03-17T23:18:26.941682+00:00', '--job-id', '39', '--raw', '--subdir', 'DAGS_FOLDER/reto_tecnico_everst.py', '--cfg-path', '/tmp/tmp57m38d14', '--error-file', '/tmp/tmpha86ftbf']
+[2023-03-17 23:18:57,589] {standard_task_runner.py:80} INFO - Job 39: Subtask table_by_municipio
+[2023-03-17 23:18:57,850] {task_command.py:369} INFO - Running <TaskInstance: reto_tecnico_everst.table_by_municipio manual__2023-03-17T23:18:26.941682+00:00 [running]> on host 8b817a59af06
+[2023-03-17 23:18:58,427] {taskinstance.py:1571} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=***
+AIRFLOW_CTX_DAG_ID=reto_tecnico_everst
+AIRFLOW_CTX_TASK_ID=table_by_municipio
+AIRFLOW_CTX_EXECUTION_DATE=2023-03-17T23:18:26.941682+00:00
+AIRFLOW_CTX_TRY_NUMBER=1
+AIRFLOW_CTX_DAG_RUN_ID=manual__2023-03-17T23:18:26.941682+00:00
+[2023-03-17 23:18:58,473] {reto_tecnico_everst.py:55} INFO - Leyendo la base extraida del API
+[2023-03-17 23:19:02,218] {reto_tecnico_everst.py:62} INFO - Formateando los tipos de datos en el DataFrame.
+[2023-03-17 23:19:02,230] {logging_mixin.py:115} WARNING - /opt/***/dags/reto_tecnico_everst.py:63 SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+[2023-03-17 23:19:02,237] {logging_mixin.py:115} WARNING - /opt/***/dags/reto_tecnico_everst.py:64 SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+[2023-03-17 23:19:02,243] {logging_mixin.py:115} WARNING - /opt/***/dags/reto_tecnico_everst.py:65 SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+[2023-03-17 23:19:02,249] {logging_mixin.py:115} WARNING - /opt/***/dags/reto_tecnico_everst.py:66 SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+[2023-03-17 23:19:02,250] {reto_tecnico_everst.py:67} INFO - Creando el promedio de temperatura y precipitación de las últimas dos horas.
+[2023-03-17 23:19:02,252] {logging_mixin.py:115} WARNING - /opt/***/dags/reto_tecnico_everst.py:68 FutureWarning: Indexing with multiple keys (implicitly converted to a tuple of keys) will be deprecated, use a list instead.
+[2023-03-17 23:19:02,425] {reto_tecnico_everst.py:73} INFO - Guardando la base tabla por municipio en formato parquet, path: data/Staging/base_2/base_20230317_23.19.parquet
+[2023-03-17 23:19:02,841] {python.py:173} INFO - Done. Returned value was: None
+[2023-03-17 23:19:02,952] {taskinstance.py:1400} INFO - Marking task as SUCCESS. dag_id=reto_tecnico_everst, task_id=table_by_municipio, execution_date=20230317T231826, start_date=20230317T231857, end_date=20230317T231902
+[2023-03-17 23:19:03,684] {local_task_job.py:156} INFO - Task exited with return code 0
+[2023-03-17 23:19:04,179] {local_task_job.py:273} INFO - 1 downstream tasks scheduled from follow-on schedule check

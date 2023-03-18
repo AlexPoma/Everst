@@ -1,0 +1,24 @@
+[2023-03-17 16:00:25,598] {taskinstance.py:1159} INFO - Dependencies all met for <TaskInstance: reto_tecnico_everst.create_data_municipios scheduled__2023-03-17T15:00:00+00:00 [queued]>
+[2023-03-17 16:00:25,609] {taskinstance.py:1159} INFO - Dependencies all met for <TaskInstance: reto_tecnico_everst.create_data_municipios scheduled__2023-03-17T15:00:00+00:00 [queued]>
+[2023-03-17 16:00:25,610] {taskinstance.py:1356} INFO - 
+--------------------------------------------------------------------------------
+[2023-03-17 16:00:25,610] {taskinstance.py:1357} INFO - Starting attempt 1 of 1
+[2023-03-17 16:00:25,611] {taskinstance.py:1358} INFO - 
+--------------------------------------------------------------------------------
+[2023-03-17 16:00:25,739] {taskinstance.py:1377} INFO - Executing <Task(PythonOperator): create_data_municipios> on 2023-03-17 15:00:00+00:00
+[2023-03-17 16:00:25,743] {standard_task_runner.py:52} INFO - Started process 422 to run task
+[2023-03-17 16:00:25,746] {standard_task_runner.py:79} INFO - Running: ['***', 'tasks', 'run', 'reto_tecnico_everst', 'create_data_municipios', 'scheduled__2023-03-17T15:00:00+00:00', '--job-id', '211', '--raw', '--subdir', 'DAGS_FOLDER/reto_tecnico_everst.py', '--cfg-path', '/tmp/tmpku06lnob', '--error-file', '/tmp/tmpnvc5h7km']
+[2023-03-17 16:00:25,747] {standard_task_runner.py:80} INFO - Job 211: Subtask create_data_municipios
+[2023-03-17 16:00:25,835] {task_command.py:369} INFO - Running <TaskInstance: reto_tecnico_everst.create_data_municipios scheduled__2023-03-17T15:00:00+00:00 [running]> on host 7d9c3e4a2f58
+[2023-03-17 16:00:25,976] {taskinstance.py:1571} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=***
+AIRFLOW_CTX_DAG_ID=reto_tecnico_everst
+AIRFLOW_CTX_TASK_ID=create_data_municipios
+AIRFLOW_CTX_EXECUTION_DATE=2023-03-17T15:00:00+00:00
+AIRFLOW_CTX_TRY_NUMBER=1
+AIRFLOW_CTX_DAG_RUN_ID=scheduled__2023-03-17T15:00:00+00:00
+[2023-03-17 16:00:31,080] {reto_tecnico_everst.py:94} INFO - Guardando la base data_municipios en formato parquet, path: dags/data/Raw/data_municipios/data_municipios_20230317_16.00.parquet
+[2023-03-17 16:00:31,155] {python.py:173} INFO - Done. Returned value was: None
+[2023-03-17 16:00:31,172] {taskinstance.py:1400} INFO - Marking task as SUCCESS. dag_id=reto_tecnico_everst, task_id=create_data_municipios, execution_date=20230317T150000, start_date=20230317T160025, end_date=20230317T160031
+[2023-03-17 16:00:31,231] {local_task_job.py:156} INFO - Task exited with return code 0
+[2023-03-17 16:00:31,338] {local_task_job.py:273} INFO - 0 downstream tasks scheduled from follow-on schedule check

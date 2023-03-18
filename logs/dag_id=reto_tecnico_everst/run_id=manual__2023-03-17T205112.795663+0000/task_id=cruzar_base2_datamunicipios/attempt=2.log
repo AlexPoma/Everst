@@ -1,0 +1,24 @@
+[2023-03-17 21:01:46,407] {taskinstance.py:1159} INFO - Dependencies all met for <TaskInstance: reto_tecnico_everst.cruzar_base2_datamunicipios manual__2023-03-17T20:51:12.795663+00:00 [queued]>
+[2023-03-17 21:01:46,418] {taskinstance.py:1159} INFO - Dependencies all met for <TaskInstance: reto_tecnico_everst.cruzar_base2_datamunicipios manual__2023-03-17T20:51:12.795663+00:00 [queued]>
+[2023-03-17 21:01:46,419] {taskinstance.py:1356} INFO - 
+--------------------------------------------------------------------------------
+[2023-03-17 21:01:46,419] {taskinstance.py:1357} INFO - Starting attempt 2 of 2
+[2023-03-17 21:01:46,420] {taskinstance.py:1358} INFO - 
+--------------------------------------------------------------------------------
+[2023-03-17 21:01:46,513] {taskinstance.py:1377} INFO - Executing <Task(PythonOperator): cruzar_base2_datamunicipios> on 2023-03-17 20:51:12.795663+00:00
+[2023-03-17 21:01:46,527] {standard_task_runner.py:52} INFO - Started process 4591 to run task
+[2023-03-17 21:01:46,541] {standard_task_runner.py:79} INFO - Running: ['***', 'tasks', 'run', 'reto_tecnico_everst', 'cruzar_base2_datamunicipios', 'manual__2023-03-17T20:51:12.795663+00:00', '--job-id', '245', '--raw', '--subdir', 'DAGS_FOLDER/reto_tecnico_everst.py', '--cfg-path', '/tmp/tmp3uiso3ks', '--error-file', '/tmp/tmpuj_3f3r4']
+[2023-03-17 21:01:46,543] {standard_task_runner.py:80} INFO - Job 245: Subtask cruzar_base2_datamunicipios
+[2023-03-17 21:01:46,701] {task_command.py:369} INFO - Running <TaskInstance: reto_tecnico_everst.cruzar_base2_datamunicipios manual__2023-03-17T20:51:12.795663+00:00 [running]> on host 7d9c3e4a2f58
+[2023-03-17 21:01:46,892] {taskinstance.py:1571} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=***
+AIRFLOW_CTX_DAG_ID=reto_tecnico_everst
+AIRFLOW_CTX_TASK_ID=cruzar_base2_datamunicipios
+AIRFLOW_CTX_EXECUTION_DATE=2023-03-17T20:51:12.795663+00:00
+AIRFLOW_CTX_TRY_NUMBER=2
+AIRFLOW_CTX_DAG_RUN_ID=manual__2023-03-17T20:51:12.795663+00:00
+[2023-03-17 21:01:47,614] {reto_tecnico_everst.py:110} INFO - Guardando la base del cruce de data_municipios y base_02 en formato parquet, path: dags/data/Analytics/base_3/History/base_3_20230317_21.01.parquet
+[2023-03-17 21:01:47,652] {python.py:173} INFO - Done. Returned value was: None
+[2023-03-17 21:01:47,668] {taskinstance.py:1400} INFO - Marking task as SUCCESS. dag_id=reto_tecnico_everst, task_id=cruzar_base2_datamunicipios, execution_date=20230317T205112, start_date=20230317T210146, end_date=20230317T210147
+[2023-03-17 21:01:47,879] {local_task_job.py:156} INFO - Task exited with return code 0
+[2023-03-17 21:01:47,953] {local_task_job.py:273} INFO - 1 downstream tasks scheduled from follow-on schedule check

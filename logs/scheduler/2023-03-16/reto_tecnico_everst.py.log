@@ -1,0 +1,797 @@
+[2023-03-16 22:15:57,596] {processor.py:153} INFO - Started process (PID=1496) to work on /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 22:15:57,598] {processor.py:641} INFO - Processing file /opt/airflow/dags/reto_tecnico_everst.py for tasks to queue
+[2023-03-16 22:15:57,600] {logging_mixin.py:115} INFO - [2023-03-16 22:15:57,600] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 22:15:58,389] {processor.py:651} INFO - DAG(s) dict_keys(['reto_tecnico_everst']) retrieved from /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 22:15:58,471] {logging_mixin.py:115} INFO - [2023-03-16 22:15:58,470] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-03-16 22:15:58,497] {logging_mixin.py:115} INFO - [2023-03-16 22:15:58,496] {dag.py:2919} INFO - Setting next_dagrun for reto_tecnico_everst to 2023-03-16T22:00:00+00:00, run_after=2023-03-16T23:00:00+00:00
+[2023-03-16 22:15:58,562] {processor.py:161} INFO - Processing /opt/airflow/dags/reto_tecnico_everst.py took 0.978 seconds
+[2023-03-16 22:16:28,790] {processor.py:153} INFO - Started process (PID=1502) to work on /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 22:16:28,792] {processor.py:641} INFO - Processing file /opt/airflow/dags/reto_tecnico_everst.py for tasks to queue
+[2023-03-16 22:16:28,794] {logging_mixin.py:115} INFO - [2023-03-16 22:16:28,793] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 22:16:29,585] {processor.py:651} INFO - DAG(s) dict_keys(['reto_tecnico_everst']) retrieved from /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 22:16:29,626] {logging_mixin.py:115} INFO - [2023-03-16 22:16:29,625] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-03-16 22:16:29,659] {logging_mixin.py:115} INFO - [2023-03-16 22:16:29,659] {dag.py:2919} INFO - Setting next_dagrun for reto_tecnico_everst to 2023-03-16T22:00:00+00:00, run_after=2023-03-16T23:00:00+00:00
+[2023-03-16 22:16:29,702] {processor.py:161} INFO - Processing /opt/airflow/dags/reto_tecnico_everst.py took 0.917 seconds
+[2023-03-16 22:16:59,955] {processor.py:153} INFO - Started process (PID=1508) to work on /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 22:16:59,956] {processor.py:641} INFO - Processing file /opt/airflow/dags/reto_tecnico_everst.py for tasks to queue
+[2023-03-16 22:16:59,957] {logging_mixin.py:115} INFO - [2023-03-16 22:16:59,957] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 22:17:00,730] {processor.py:651} INFO - DAG(s) dict_keys(['reto_tecnico_everst']) retrieved from /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 22:17:00,760] {logging_mixin.py:115} INFO - [2023-03-16 22:17:00,759] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-03-16 22:17:00,787] {logging_mixin.py:115} INFO - [2023-03-16 22:17:00,787] {dag.py:2919} INFO - Setting next_dagrun for reto_tecnico_everst to 2023-03-16T22:00:00+00:00, run_after=2023-03-16T23:00:00+00:00
+[2023-03-16 22:17:00,827] {processor.py:161} INFO - Processing /opt/airflow/dags/reto_tecnico_everst.py took 0.875 seconds
+[2023-03-16 22:17:31,091] {processor.py:153} INFO - Started process (PID=1514) to work on /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 22:17:31,094] {processor.py:641} INFO - Processing file /opt/airflow/dags/reto_tecnico_everst.py for tasks to queue
+[2023-03-16 22:17:31,096] {logging_mixin.py:115} INFO - [2023-03-16 22:17:31,096] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 22:17:31,872] {processor.py:651} INFO - DAG(s) dict_keys(['reto_tecnico_everst']) retrieved from /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 22:17:31,901] {logging_mixin.py:115} INFO - [2023-03-16 22:17:31,900] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-03-16 22:17:31,929] {logging_mixin.py:115} INFO - [2023-03-16 22:17:31,929] {dag.py:2919} INFO - Setting next_dagrun for reto_tecnico_everst to 2023-03-16T22:00:00+00:00, run_after=2023-03-16T23:00:00+00:00
+[2023-03-16 22:17:32,353] {processor.py:161} INFO - Processing /opt/airflow/dags/reto_tecnico_everst.py took 1.275 seconds
+[2023-03-16 22:18:02,605] {processor.py:153} INFO - Started process (PID=1520) to work on /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 22:18:02,608] {processor.py:641} INFO - Processing file /opt/airflow/dags/reto_tecnico_everst.py for tasks to queue
+[2023-03-16 22:18:02,610] {logging_mixin.py:115} INFO - [2023-03-16 22:18:02,610] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 22:18:03,390] {processor.py:651} INFO - DAG(s) dict_keys(['reto_tecnico_everst']) retrieved from /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 22:18:03,423] {logging_mixin.py:115} INFO - [2023-03-16 22:18:03,422] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-03-16 22:18:03,451] {logging_mixin.py:115} INFO - [2023-03-16 22:18:03,451] {dag.py:2919} INFO - Setting next_dagrun for reto_tecnico_everst to 2023-03-16T22:00:00+00:00, run_after=2023-03-16T23:00:00+00:00
+[2023-03-16 22:18:03,562] {processor.py:161} INFO - Processing /opt/airflow/dags/reto_tecnico_everst.py took 0.964 seconds
+[2023-03-16 22:18:33,788] {processor.py:153} INFO - Started process (PID=1526) to work on /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 22:18:33,789] {processor.py:641} INFO - Processing file /opt/airflow/dags/reto_tecnico_everst.py for tasks to queue
+[2023-03-16 22:18:33,790] {logging_mixin.py:115} INFO - [2023-03-16 22:18:33,790] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 22:18:34,583] {processor.py:651} INFO - DAG(s) dict_keys(['reto_tecnico_everst']) retrieved from /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 22:18:34,616] {logging_mixin.py:115} INFO - [2023-03-16 22:18:34,615] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-03-16 22:18:34,648] {logging_mixin.py:115} INFO - [2023-03-16 22:18:34,648] {dag.py:2919} INFO - Setting next_dagrun for reto_tecnico_everst to 2023-03-16T22:00:00+00:00, run_after=2023-03-16T23:00:00+00:00
+[2023-03-16 22:18:34,689] {processor.py:161} INFO - Processing /opt/airflow/dags/reto_tecnico_everst.py took 0.904 seconds
+[2023-03-16 22:19:04,769] {processor.py:153} INFO - Started process (PID=1532) to work on /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 22:19:04,772] {processor.py:641} INFO - Processing file /opt/airflow/dags/reto_tecnico_everst.py for tasks to queue
+[2023-03-16 22:19:04,775] {logging_mixin.py:115} INFO - [2023-03-16 22:19:04,775] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 22:19:05,603] {processor.py:651} INFO - DAG(s) dict_keys(['reto_tecnico_everst']) retrieved from /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 22:19:05,635] {logging_mixin.py:115} INFO - [2023-03-16 22:19:05,634] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-03-16 22:19:05,662] {logging_mixin.py:115} INFO - [2023-03-16 22:19:05,662] {dag.py:2919} INFO - Setting next_dagrun for reto_tecnico_everst to 2023-03-16T22:00:00+00:00, run_after=2023-03-16T23:00:00+00:00
+[2023-03-16 22:19:05,713] {processor.py:161} INFO - Processing /opt/airflow/dags/reto_tecnico_everst.py took 0.958 seconds
+[2023-03-16 22:19:35,904] {processor.py:153} INFO - Started process (PID=1538) to work on /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 22:19:35,907] {processor.py:641} INFO - Processing file /opt/airflow/dags/reto_tecnico_everst.py for tasks to queue
+[2023-03-16 22:19:35,910] {logging_mixin.py:115} INFO - [2023-03-16 22:19:35,910] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 22:19:36,864] {processor.py:651} INFO - DAG(s) dict_keys(['reto_tecnico_everst']) retrieved from /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 22:19:36,908] {logging_mixin.py:115} INFO - [2023-03-16 22:19:36,907] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-03-16 22:19:36,950] {logging_mixin.py:115} INFO - [2023-03-16 22:19:36,950] {dag.py:2919} INFO - Setting next_dagrun for reto_tecnico_everst to 2023-03-16T22:00:00+00:00, run_after=2023-03-16T23:00:00+00:00
+[2023-03-16 22:19:37,055] {processor.py:161} INFO - Processing /opt/airflow/dags/reto_tecnico_everst.py took 1.170 seconds
+[2023-03-16 22:20:07,112] {processor.py:153} INFO - Started process (PID=1544) to work on /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 22:20:07,115] {processor.py:641} INFO - Processing file /opt/airflow/dags/reto_tecnico_everst.py for tasks to queue
+[2023-03-16 22:20:07,117] {logging_mixin.py:115} INFO - [2023-03-16 22:20:07,117] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 22:20:07,934] {processor.py:651} INFO - DAG(s) dict_keys(['reto_tecnico_everst']) retrieved from /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 22:20:07,965] {logging_mixin.py:115} INFO - [2023-03-16 22:20:07,964] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-03-16 22:20:08,006] {logging_mixin.py:115} INFO - [2023-03-16 22:20:08,005] {dag.py:2919} INFO - Setting next_dagrun for reto_tecnico_everst to 2023-03-16T22:00:00+00:00, run_after=2023-03-16T23:00:00+00:00
+[2023-03-16 22:20:08,097] {processor.py:161} INFO - Processing /opt/airflow/dags/reto_tecnico_everst.py took 0.995 seconds
+[2023-03-16 22:20:38,238] {processor.py:153} INFO - Started process (PID=1550) to work on /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 22:20:38,239] {processor.py:641} INFO - Processing file /opt/airflow/dags/reto_tecnico_everst.py for tasks to queue
+[2023-03-16 22:20:38,240] {logging_mixin.py:115} INFO - [2023-03-16 22:20:38,240] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 22:20:39,027] {processor.py:651} INFO - DAG(s) dict_keys(['reto_tecnico_everst']) retrieved from /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 22:20:39,111] {logging_mixin.py:115} INFO - [2023-03-16 22:20:39,110] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-03-16 22:20:39,141] {logging_mixin.py:115} INFO - [2023-03-16 22:20:39,140] {dag.py:2919} INFO - Setting next_dagrun for reto_tecnico_everst to 2023-03-16T22:00:00+00:00, run_after=2023-03-16T23:00:00+00:00
+[2023-03-16 22:20:39,275] {processor.py:161} INFO - Processing /opt/airflow/dags/reto_tecnico_everst.py took 1.040 seconds
+[2023-03-16 22:21:10,041] {processor.py:153} INFO - Started process (PID=1556) to work on /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 22:21:10,043] {processor.py:641} INFO - Processing file /opt/airflow/dags/reto_tecnico_everst.py for tasks to queue
+[2023-03-16 22:21:10,045] {logging_mixin.py:115} INFO - [2023-03-16 22:21:10,045] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 22:21:10,881] {processor.py:651} INFO - DAG(s) dict_keys(['reto_tecnico_everst']) retrieved from /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 22:21:10,918] {logging_mixin.py:115} INFO - [2023-03-16 22:21:10,917] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-03-16 22:21:10,955] {logging_mixin.py:115} INFO - [2023-03-16 22:21:10,955] {dag.py:2919} INFO - Setting next_dagrun for reto_tecnico_everst to 2023-03-16T22:00:00+00:00, run_after=2023-03-16T23:00:00+00:00
+[2023-03-16 22:21:11,067] {processor.py:161} INFO - Processing /opt/airflow/dags/reto_tecnico_everst.py took 1.040 seconds
+[2023-03-16 22:21:41,148] {processor.py:153} INFO - Started process (PID=1562) to work on /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 22:21:41,150] {processor.py:641} INFO - Processing file /opt/airflow/dags/reto_tecnico_everst.py for tasks to queue
+[2023-03-16 22:21:41,152] {logging_mixin.py:115} INFO - [2023-03-16 22:21:41,152] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 22:21:41,964] {processor.py:651} INFO - DAG(s) dict_keys(['reto_tecnico_everst']) retrieved from /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 22:21:42,000] {logging_mixin.py:115} INFO - [2023-03-16 22:21:41,999] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-03-16 22:21:42,031] {logging_mixin.py:115} INFO - [2023-03-16 22:21:42,031] {dag.py:2919} INFO - Setting next_dagrun for reto_tecnico_everst to 2023-03-16T22:00:00+00:00, run_after=2023-03-16T23:00:00+00:00
+[2023-03-16 22:21:42,138] {processor.py:161} INFO - Processing /opt/airflow/dags/reto_tecnico_everst.py took 0.997 seconds
+[2023-03-16 22:22:12,280] {processor.py:153} INFO - Started process (PID=1568) to work on /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 22:22:12,282] {processor.py:641} INFO - Processing file /opt/airflow/dags/reto_tecnico_everst.py for tasks to queue
+[2023-03-16 22:22:12,284] {logging_mixin.py:115} INFO - [2023-03-16 22:22:12,284] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 22:22:13,116] {processor.py:651} INFO - DAG(s) dict_keys(['reto_tecnico_everst']) retrieved from /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 22:22:13,143] {logging_mixin.py:115} INFO - [2023-03-16 22:22:13,142] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-03-16 22:22:13,169] {logging_mixin.py:115} INFO - [2023-03-16 22:22:13,169] {dag.py:2919} INFO - Setting next_dagrun for reto_tecnico_everst to 2023-03-16T22:00:00+00:00, run_after=2023-03-16T23:00:00+00:00
+[2023-03-16 22:22:13,251] {processor.py:161} INFO - Processing /opt/airflow/dags/reto_tecnico_everst.py took 0.979 seconds
+[2023-03-16 22:22:43,412] {processor.py:153} INFO - Started process (PID=1574) to work on /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 22:22:43,414] {processor.py:641} INFO - Processing file /opt/airflow/dags/reto_tecnico_everst.py for tasks to queue
+[2023-03-16 22:22:43,416] {logging_mixin.py:115} INFO - [2023-03-16 22:22:43,416] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 22:22:44,249] {processor.py:651} INFO - DAG(s) dict_keys(['reto_tecnico_everst']) retrieved from /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 22:22:44,282] {logging_mixin.py:115} INFO - [2023-03-16 22:22:44,282] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-03-16 22:22:44,313] {logging_mixin.py:115} INFO - [2023-03-16 22:22:44,313] {dag.py:2919} INFO - Setting next_dagrun for reto_tecnico_everst to 2023-03-16T22:00:00+00:00, run_after=2023-03-16T23:00:00+00:00
+[2023-03-16 22:22:44,443] {processor.py:161} INFO - Processing /opt/airflow/dags/reto_tecnico_everst.py took 1.037 seconds
+[2023-03-16 22:23:14,599] {processor.py:153} INFO - Started process (PID=1580) to work on /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 22:23:14,600] {processor.py:641} INFO - Processing file /opt/airflow/dags/reto_tecnico_everst.py for tasks to queue
+[2023-03-16 22:23:14,602] {logging_mixin.py:115} INFO - [2023-03-16 22:23:14,602] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 22:23:15,460] {processor.py:651} INFO - DAG(s) dict_keys(['reto_tecnico_everst']) retrieved from /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 22:23:15,491] {logging_mixin.py:115} INFO - [2023-03-16 22:23:15,490] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-03-16 22:23:15,518] {logging_mixin.py:115} INFO - [2023-03-16 22:23:15,518] {dag.py:2919} INFO - Setting next_dagrun for reto_tecnico_everst to 2023-03-16T22:00:00+00:00, run_after=2023-03-16T23:00:00+00:00
+[2023-03-16 22:23:15,659] {processor.py:161} INFO - Processing /opt/airflow/dags/reto_tecnico_everst.py took 1.066 seconds
+[2023-03-16 22:23:45,833] {processor.py:153} INFO - Started process (PID=1586) to work on /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 22:23:45,834] {processor.py:641} INFO - Processing file /opt/airflow/dags/reto_tecnico_everst.py for tasks to queue
+[2023-03-16 22:23:45,836] {logging_mixin.py:115} INFO - [2023-03-16 22:23:45,835] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 22:23:46,676] {processor.py:651} INFO - DAG(s) dict_keys(['reto_tecnico_everst']) retrieved from /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 22:23:46,712] {logging_mixin.py:115} INFO - [2023-03-16 22:23:46,711] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-03-16 22:23:46,741] {logging_mixin.py:115} INFO - [2023-03-16 22:23:46,741] {dag.py:2919} INFO - Setting next_dagrun for reto_tecnico_everst to 2023-03-16T22:00:00+00:00, run_after=2023-03-16T23:00:00+00:00
+[2023-03-16 22:23:46,824] {processor.py:161} INFO - Processing /opt/airflow/dags/reto_tecnico_everst.py took 0.997 seconds
+[2023-03-16 22:24:16,978] {processor.py:153} INFO - Started process (PID=1592) to work on /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 22:24:16,980] {processor.py:641} INFO - Processing file /opt/airflow/dags/reto_tecnico_everst.py for tasks to queue
+[2023-03-16 22:24:16,982] {logging_mixin.py:115} INFO - [2023-03-16 22:24:16,982] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 22:24:17,792] {processor.py:651} INFO - DAG(s) dict_keys(['reto_tecnico_everst']) retrieved from /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 22:24:17,822] {logging_mixin.py:115} INFO - [2023-03-16 22:24:17,821] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-03-16 22:24:17,849] {logging_mixin.py:115} INFO - [2023-03-16 22:24:17,849] {dag.py:2919} INFO - Setting next_dagrun for reto_tecnico_everst to 2023-03-16T22:00:00+00:00, run_after=2023-03-16T23:00:00+00:00
+[2023-03-16 22:24:17,924] {processor.py:161} INFO - Processing /opt/airflow/dags/reto_tecnico_everst.py took 0.961 seconds
+[2023-03-16 22:24:48,095] {processor.py:153} INFO - Started process (PID=1598) to work on /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 22:24:48,097] {processor.py:641} INFO - Processing file /opt/airflow/dags/reto_tecnico_everst.py for tasks to queue
+[2023-03-16 22:24:48,099] {logging_mixin.py:115} INFO - [2023-03-16 22:24:48,099] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 22:24:48,898] {processor.py:651} INFO - DAG(s) dict_keys(['reto_tecnico_everst']) retrieved from /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 22:24:48,928] {logging_mixin.py:115} INFO - [2023-03-16 22:24:48,927] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-03-16 22:24:48,955] {logging_mixin.py:115} INFO - [2023-03-16 22:24:48,955] {dag.py:2919} INFO - Setting next_dagrun for reto_tecnico_everst to 2023-03-16T22:00:00+00:00, run_after=2023-03-16T23:00:00+00:00
+[2023-03-16 22:24:49,083] {processor.py:161} INFO - Processing /opt/airflow/dags/reto_tecnico_everst.py took 0.998 seconds
+[2023-03-16 22:25:19,312] {processor.py:153} INFO - Started process (PID=1604) to work on /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 22:25:19,313] {processor.py:641} INFO - Processing file /opt/airflow/dags/reto_tecnico_everst.py for tasks to queue
+[2023-03-16 22:25:19,314] {logging_mixin.py:115} INFO - [2023-03-16 22:25:19,314] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 22:25:20,149] {processor.py:651} INFO - DAG(s) dict_keys(['reto_tecnico_everst']) retrieved from /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 22:25:20,178] {logging_mixin.py:115} INFO - [2023-03-16 22:25:20,177] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-03-16 22:25:20,204] {logging_mixin.py:115} INFO - [2023-03-16 22:25:20,204] {dag.py:2919} INFO - Setting next_dagrun for reto_tecnico_everst to 2023-03-16T22:00:00+00:00, run_after=2023-03-16T23:00:00+00:00
+[2023-03-16 22:25:20,245] {processor.py:161} INFO - Processing /opt/airflow/dags/reto_tecnico_everst.py took 0.936 seconds
+[2023-03-16 22:25:50,576] {processor.py:153} INFO - Started process (PID=1610) to work on /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 22:25:50,577] {processor.py:641} INFO - Processing file /opt/airflow/dags/reto_tecnico_everst.py for tasks to queue
+[2023-03-16 22:25:50,579] {logging_mixin.py:115} INFO - [2023-03-16 22:25:50,578] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 22:25:51,384] {processor.py:651} INFO - DAG(s) dict_keys(['reto_tecnico_everst']) retrieved from /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 22:25:51,411] {logging_mixin.py:115} INFO - [2023-03-16 22:25:51,410] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-03-16 22:25:51,439] {logging_mixin.py:115} INFO - [2023-03-16 22:25:51,438] {dag.py:2919} INFO - Setting next_dagrun for reto_tecnico_everst to 2023-03-16T22:00:00+00:00, run_after=2023-03-16T23:00:00+00:00
+[2023-03-16 22:25:51,488] {processor.py:161} INFO - Processing /opt/airflow/dags/reto_tecnico_everst.py took 0.917 seconds
+[2023-03-16 22:26:22,465] {processor.py:153} INFO - Started process (PID=1616) to work on /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 22:26:22,467] {processor.py:641} INFO - Processing file /opt/airflow/dags/reto_tecnico_everst.py for tasks to queue
+[2023-03-16 22:26:22,469] {logging_mixin.py:115} INFO - [2023-03-16 22:26:22,469] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 22:26:23,241] {processor.py:651} INFO - DAG(s) dict_keys(['reto_tecnico_everst']) retrieved from /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 22:26:23,275] {logging_mixin.py:115} INFO - [2023-03-16 22:26:23,274] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-03-16 22:26:23,303] {logging_mixin.py:115} INFO - [2023-03-16 22:26:23,303] {dag.py:2919} INFO - Setting next_dagrun for reto_tecnico_everst to 2023-03-16T22:00:00+00:00, run_after=2023-03-16T23:00:00+00:00
+[2023-03-16 22:26:23,342] {processor.py:161} INFO - Processing /opt/airflow/dags/reto_tecnico_everst.py took 0.887 seconds
+[2023-03-16 22:26:53,599] {processor.py:153} INFO - Started process (PID=1622) to work on /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 22:26:53,602] {processor.py:641} INFO - Processing file /opt/airflow/dags/reto_tecnico_everst.py for tasks to queue
+[2023-03-16 22:26:53,604] {logging_mixin.py:115} INFO - [2023-03-16 22:26:53,604] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 22:26:54,356] {processor.py:651} INFO - DAG(s) dict_keys(['reto_tecnico_everst']) retrieved from /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 22:26:54,389] {logging_mixin.py:115} INFO - [2023-03-16 22:26:54,389] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-03-16 22:26:54,419] {logging_mixin.py:115} INFO - [2023-03-16 22:26:54,419] {dag.py:2919} INFO - Setting next_dagrun for reto_tecnico_everst to 2023-03-16T22:00:00+00:00, run_after=2023-03-16T23:00:00+00:00
+[2023-03-16 22:26:54,457] {processor.py:161} INFO - Processing /opt/airflow/dags/reto_tecnico_everst.py took 0.872 seconds
+[2023-03-16 22:27:24,720] {processor.py:153} INFO - Started process (PID=1628) to work on /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 22:27:24,721] {processor.py:641} INFO - Processing file /opt/airflow/dags/reto_tecnico_everst.py for tasks to queue
+[2023-03-16 22:27:24,723] {logging_mixin.py:115} INFO - [2023-03-16 22:27:24,722] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 22:27:25,522] {processor.py:651} INFO - DAG(s) dict_keys(['reto_tecnico_everst']) retrieved from /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 22:27:25,551] {logging_mixin.py:115} INFO - [2023-03-16 22:27:25,550] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-03-16 22:27:25,579] {logging_mixin.py:115} INFO - [2023-03-16 22:27:25,579] {dag.py:2919} INFO - Setting next_dagrun for reto_tecnico_everst to 2023-03-16T22:00:00+00:00, run_after=2023-03-16T23:00:00+00:00
+[2023-03-16 22:27:25,627] {processor.py:161} INFO - Processing /opt/airflow/dags/reto_tecnico_everst.py took 0.914 seconds
+[2023-03-16 22:27:55,913] {processor.py:153} INFO - Started process (PID=1634) to work on /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 22:27:55,915] {processor.py:641} INFO - Processing file /opt/airflow/dags/reto_tecnico_everst.py for tasks to queue
+[2023-03-16 22:27:55,918] {logging_mixin.py:115} INFO - [2023-03-16 22:27:55,917] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 22:27:56,728] {processor.py:651} INFO - DAG(s) dict_keys(['reto_tecnico_everst']) retrieved from /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 22:27:56,757] {logging_mixin.py:115} INFO - [2023-03-16 22:27:56,756] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-03-16 22:27:56,783] {logging_mixin.py:115} INFO - [2023-03-16 22:27:56,783] {dag.py:2919} INFO - Setting next_dagrun for reto_tecnico_everst to 2023-03-16T22:00:00+00:00, run_after=2023-03-16T23:00:00+00:00
+[2023-03-16 22:27:56,833] {processor.py:161} INFO - Processing /opt/airflow/dags/reto_tecnico_everst.py took 0.938 seconds
+[2023-03-16 22:28:27,088] {processor.py:153} INFO - Started process (PID=1640) to work on /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 22:28:27,089] {processor.py:641} INFO - Processing file /opt/airflow/dags/reto_tecnico_everst.py for tasks to queue
+[2023-03-16 22:28:27,090] {logging_mixin.py:115} INFO - [2023-03-16 22:28:27,090] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 22:28:27,876] {processor.py:651} INFO - DAG(s) dict_keys(['reto_tecnico_everst']) retrieved from /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 22:28:27,904] {logging_mixin.py:115} INFO - [2023-03-16 22:28:27,903] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-03-16 22:28:27,932] {logging_mixin.py:115} INFO - [2023-03-16 22:28:27,931] {dag.py:2919} INFO - Setting next_dagrun for reto_tecnico_everst to 2023-03-16T22:00:00+00:00, run_after=2023-03-16T23:00:00+00:00
+[2023-03-16 22:28:27,982] {processor.py:161} INFO - Processing /opt/airflow/dags/reto_tecnico_everst.py took 0.898 seconds
+[2023-03-16 22:28:58,237] {processor.py:153} INFO - Started process (PID=1646) to work on /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 22:28:58,240] {processor.py:641} INFO - Processing file /opt/airflow/dags/reto_tecnico_everst.py for tasks to queue
+[2023-03-16 22:28:58,242] {logging_mixin.py:115} INFO - [2023-03-16 22:28:58,242] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 22:28:59,041] {processor.py:651} INFO - DAG(s) dict_keys(['reto_tecnico_everst']) retrieved from /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 22:28:59,079] {logging_mixin.py:115} INFO - [2023-03-16 22:28:59,078] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-03-16 22:28:59,108] {logging_mixin.py:115} INFO - [2023-03-16 22:28:59,108] {dag.py:2919} INFO - Setting next_dagrun for reto_tecnico_everst to 2023-03-16T22:00:00+00:00, run_after=2023-03-16T23:00:00+00:00
+[2023-03-16 22:28:59,143] {processor.py:161} INFO - Processing /opt/airflow/dags/reto_tecnico_everst.py took 0.909 seconds
+[2023-03-16 22:29:29,307] {processor.py:153} INFO - Started process (PID=1652) to work on /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 22:29:29,308] {processor.py:641} INFO - Processing file /opt/airflow/dags/reto_tecnico_everst.py for tasks to queue
+[2023-03-16 22:29:29,309] {logging_mixin.py:115} INFO - [2023-03-16 22:29:29,309] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 22:29:30,195] {processor.py:651} INFO - DAG(s) dict_keys(['reto_tecnico_everst']) retrieved from /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 22:29:30,225] {logging_mixin.py:115} INFO - [2023-03-16 22:29:30,224] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-03-16 22:29:30,261] {logging_mixin.py:115} INFO - [2023-03-16 22:29:30,261] {dag.py:2919} INFO - Setting next_dagrun for reto_tecnico_everst to 2023-03-16T22:00:00+00:00, run_after=2023-03-16T23:00:00+00:00
+[2023-03-16 22:29:30,313] {processor.py:161} INFO - Processing /opt/airflow/dags/reto_tecnico_everst.py took 1.010 seconds
+[2023-03-16 22:30:00,433] {processor.py:153} INFO - Started process (PID=1658) to work on /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 22:30:00,434] {processor.py:641} INFO - Processing file /opt/airflow/dags/reto_tecnico_everst.py for tasks to queue
+[2023-03-16 22:30:00,435] {logging_mixin.py:115} INFO - [2023-03-16 22:30:00,435] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 22:30:01,280] {processor.py:651} INFO - DAG(s) dict_keys(['reto_tecnico_everst']) retrieved from /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 22:30:01,312] {logging_mixin.py:115} INFO - [2023-03-16 22:30:01,312] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-03-16 22:30:01,340] {logging_mixin.py:115} INFO - [2023-03-16 22:30:01,340] {dag.py:2919} INFO - Setting next_dagrun for reto_tecnico_everst to 2023-03-16T22:00:00+00:00, run_after=2023-03-16T23:00:00+00:00
+[2023-03-16 22:30:01,495] {processor.py:161} INFO - Processing /opt/airflow/dags/reto_tecnico_everst.py took 1.065 seconds
+[2023-03-16 22:30:31,643] {processor.py:153} INFO - Started process (PID=1664) to work on /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 22:30:31,644] {processor.py:641} INFO - Processing file /opt/airflow/dags/reto_tecnico_everst.py for tasks to queue
+[2023-03-16 22:30:31,645] {logging_mixin.py:115} INFO - [2023-03-16 22:30:31,645] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 22:30:32,414] {processor.py:651} INFO - DAG(s) dict_keys(['reto_tecnico_everst']) retrieved from /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 22:30:32,440] {logging_mixin.py:115} INFO - [2023-03-16 22:30:32,439] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-03-16 22:30:32,469] {logging_mixin.py:115} INFO - [2023-03-16 22:30:32,469] {dag.py:2919} INFO - Setting next_dagrun for reto_tecnico_everst to 2023-03-16T22:00:00+00:00, run_after=2023-03-16T23:00:00+00:00
+[2023-03-16 22:30:32,507] {processor.py:161} INFO - Processing /opt/airflow/dags/reto_tecnico_everst.py took 0.866 seconds
+[2023-03-16 22:31:03,374] {processor.py:153} INFO - Started process (PID=1670) to work on /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 22:31:03,375] {processor.py:641} INFO - Processing file /opt/airflow/dags/reto_tecnico_everst.py for tasks to queue
+[2023-03-16 22:31:03,378] {logging_mixin.py:115} INFO - [2023-03-16 22:31:03,378] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 22:31:04,156] {processor.py:651} INFO - DAG(s) dict_keys(['reto_tecnico_everst']) retrieved from /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 22:31:04,190] {logging_mixin.py:115} INFO - [2023-03-16 22:31:04,190] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-03-16 22:31:04,219] {logging_mixin.py:115} INFO - [2023-03-16 22:31:04,219] {dag.py:2919} INFO - Setting next_dagrun for reto_tecnico_everst to 2023-03-16T22:00:00+00:00, run_after=2023-03-16T23:00:00+00:00
+[2023-03-16 22:31:04,263] {processor.py:161} INFO - Processing /opt/airflow/dags/reto_tecnico_everst.py took 0.893 seconds
+[2023-03-16 22:31:34,525] {processor.py:153} INFO - Started process (PID=1676) to work on /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 22:31:34,527] {processor.py:641} INFO - Processing file /opt/airflow/dags/reto_tecnico_everst.py for tasks to queue
+[2023-03-16 22:31:34,529] {logging_mixin.py:115} INFO - [2023-03-16 22:31:34,529] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 22:31:35,360] {processor.py:651} INFO - DAG(s) dict_keys(['reto_tecnico_everst']) retrieved from /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 22:31:35,389] {logging_mixin.py:115} INFO - [2023-03-16 22:31:35,388] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-03-16 22:31:35,417] {logging_mixin.py:115} INFO - [2023-03-16 22:31:35,416] {dag.py:2919} INFO - Setting next_dagrun for reto_tecnico_everst to 2023-03-16T22:00:00+00:00, run_after=2023-03-16T23:00:00+00:00
+[2023-03-16 22:31:35,464] {processor.py:161} INFO - Processing /opt/airflow/dags/reto_tecnico_everst.py took 0.953 seconds
+[2023-03-16 22:32:05,712] {processor.py:153} INFO - Started process (PID=1682) to work on /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 22:32:05,714] {processor.py:641} INFO - Processing file /opt/airflow/dags/reto_tecnico_everst.py for tasks to queue
+[2023-03-16 22:32:05,716] {logging_mixin.py:115} INFO - [2023-03-16 22:32:05,716] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 22:32:06,519] {processor.py:651} INFO - DAG(s) dict_keys(['reto_tecnico_everst']) retrieved from /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 22:32:06,555] {logging_mixin.py:115} INFO - [2023-03-16 22:32:06,554] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-03-16 22:32:06,584] {logging_mixin.py:115} INFO - [2023-03-16 22:32:06,584] {dag.py:2919} INFO - Setting next_dagrun for reto_tecnico_everst to 2023-03-16T22:00:00+00:00, run_after=2023-03-16T23:00:00+00:00
+[2023-03-16 22:32:06,619] {processor.py:161} INFO - Processing /opt/airflow/dags/reto_tecnico_everst.py took 0.920 seconds
+[2023-03-16 22:32:36,871] {processor.py:153} INFO - Started process (PID=1688) to work on /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 22:32:36,871] {processor.py:641} INFO - Processing file /opt/airflow/dags/reto_tecnico_everst.py for tasks to queue
+[2023-03-16 22:32:36,872] {logging_mixin.py:115} INFO - [2023-03-16 22:32:36,872] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 22:32:37,640] {processor.py:651} INFO - DAG(s) dict_keys(['reto_tecnico_everst']) retrieved from /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 22:32:37,674] {logging_mixin.py:115} INFO - [2023-03-16 22:32:37,673] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-03-16 22:32:37,703] {logging_mixin.py:115} INFO - [2023-03-16 22:32:37,703] {dag.py:2919} INFO - Setting next_dagrun for reto_tecnico_everst to 2023-03-16T22:00:00+00:00, run_after=2023-03-16T23:00:00+00:00
+[2023-03-16 22:32:37,756] {processor.py:161} INFO - Processing /opt/airflow/dags/reto_tecnico_everst.py took 0.888 seconds
+[2023-03-16 22:33:08,006] {processor.py:153} INFO - Started process (PID=1694) to work on /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 22:33:08,007] {processor.py:641} INFO - Processing file /opt/airflow/dags/reto_tecnico_everst.py for tasks to queue
+[2023-03-16 22:33:08,009] {logging_mixin.py:115} INFO - [2023-03-16 22:33:08,009] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 22:33:08,764] {processor.py:651} INFO - DAG(s) dict_keys(['reto_tecnico_everst']) retrieved from /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 22:33:08,793] {logging_mixin.py:115} INFO - [2023-03-16 22:33:08,792] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-03-16 22:33:08,822] {logging_mixin.py:115} INFO - [2023-03-16 22:33:08,821] {dag.py:2919} INFO - Setting next_dagrun for reto_tecnico_everst to 2023-03-16T22:00:00+00:00, run_after=2023-03-16T23:00:00+00:00
+[2023-03-16 22:33:08,858] {processor.py:161} INFO - Processing /opt/airflow/dags/reto_tecnico_everst.py took 0.856 seconds
+[2023-03-16 22:33:39,095] {processor.py:153} INFO - Started process (PID=1700) to work on /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 22:33:39,096] {processor.py:641} INFO - Processing file /opt/airflow/dags/reto_tecnico_everst.py for tasks to queue
+[2023-03-16 22:33:39,097] {logging_mixin.py:115} INFO - [2023-03-16 22:33:39,097] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 22:33:39,886] {processor.py:651} INFO - DAG(s) dict_keys(['reto_tecnico_everst']) retrieved from /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 22:33:39,915] {logging_mixin.py:115} INFO - [2023-03-16 22:33:39,915] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-03-16 22:33:39,945] {logging_mixin.py:115} INFO - [2023-03-16 22:33:39,944] {dag.py:2919} INFO - Setting next_dagrun for reto_tecnico_everst to 2023-03-16T22:00:00+00:00, run_after=2023-03-16T23:00:00+00:00
+[2023-03-16 22:33:40,009] {processor.py:161} INFO - Processing /opt/airflow/dags/reto_tecnico_everst.py took 0.917 seconds
+[2023-03-16 22:34:10,255] {processor.py:153} INFO - Started process (PID=1706) to work on /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 22:34:10,258] {processor.py:641} INFO - Processing file /opt/airflow/dags/reto_tecnico_everst.py for tasks to queue
+[2023-03-16 22:34:10,260] {logging_mixin.py:115} INFO - [2023-03-16 22:34:10,260] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 22:34:11,059] {processor.py:651} INFO - DAG(s) dict_keys(['reto_tecnico_everst']) retrieved from /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 22:34:11,094] {logging_mixin.py:115} INFO - [2023-03-16 22:34:11,092] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-03-16 22:34:11,128] {logging_mixin.py:115} INFO - [2023-03-16 22:34:11,128] {dag.py:2919} INFO - Setting next_dagrun for reto_tecnico_everst to 2023-03-16T22:00:00+00:00, run_after=2023-03-16T23:00:00+00:00
+[2023-03-16 22:34:11,325] {processor.py:161} INFO - Processing /opt/airflow/dags/reto_tecnico_everst.py took 1.085 seconds
+[2023-03-16 22:34:41,586] {processor.py:153} INFO - Started process (PID=1712) to work on /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 22:34:41,587] {processor.py:641} INFO - Processing file /opt/airflow/dags/reto_tecnico_everst.py for tasks to queue
+[2023-03-16 22:34:41,589] {logging_mixin.py:115} INFO - [2023-03-16 22:34:41,589] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 22:34:42,421] {processor.py:651} INFO - DAG(s) dict_keys(['reto_tecnico_everst']) retrieved from /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 22:34:42,456] {logging_mixin.py:115} INFO - [2023-03-16 22:34:42,455] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-03-16 22:34:42,485] {logging_mixin.py:115} INFO - [2023-03-16 22:34:42,485] {dag.py:2919} INFO - Setting next_dagrun for reto_tecnico_everst to 2023-03-16T22:00:00+00:00, run_after=2023-03-16T23:00:00+00:00
+[2023-03-16 22:34:42,572] {processor.py:161} INFO - Processing /opt/airflow/dags/reto_tecnico_everst.py took 0.989 seconds
+[2023-03-16 22:35:12,832] {processor.py:153} INFO - Started process (PID=1718) to work on /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 22:35:12,834] {processor.py:641} INFO - Processing file /opt/airflow/dags/reto_tecnico_everst.py for tasks to queue
+[2023-03-16 22:35:12,836] {logging_mixin.py:115} INFO - [2023-03-16 22:35:12,836] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 22:35:13,660] {processor.py:651} INFO - DAG(s) dict_keys(['reto_tecnico_everst']) retrieved from /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 22:35:13,696] {logging_mixin.py:115} INFO - [2023-03-16 22:35:13,695] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-03-16 22:35:13,730] {logging_mixin.py:115} INFO - [2023-03-16 22:35:13,730] {dag.py:2919} INFO - Setting next_dagrun for reto_tecnico_everst to 2023-03-16T22:00:00+00:00, run_after=2023-03-16T23:00:00+00:00
+[2023-03-16 22:35:13,788] {processor.py:161} INFO - Processing /opt/airflow/dags/reto_tecnico_everst.py took 0.972 seconds
+[2023-03-16 22:35:44,007] {processor.py:153} INFO - Started process (PID=1724) to work on /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 22:35:44,009] {processor.py:641} INFO - Processing file /opt/airflow/dags/reto_tecnico_everst.py for tasks to queue
+[2023-03-16 22:35:44,012] {logging_mixin.py:115} INFO - [2023-03-16 22:35:44,012] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 22:35:45,045] {processor.py:651} INFO - DAG(s) dict_keys(['reto_tecnico_everst']) retrieved from /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 22:35:45,080] {logging_mixin.py:115} INFO - [2023-03-16 22:35:45,079] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-03-16 22:35:45,112] {logging_mixin.py:115} INFO - [2023-03-16 22:35:45,112] {dag.py:2919} INFO - Setting next_dagrun for reto_tecnico_everst to 2023-03-16T22:00:00+00:00, run_after=2023-03-16T23:00:00+00:00
+[2023-03-16 22:35:45,211] {processor.py:161} INFO - Processing /opt/airflow/dags/reto_tecnico_everst.py took 1.208 seconds
+[2023-03-16 22:36:15,903] {processor.py:153} INFO - Started process (PID=1733) to work on /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 22:36:15,905] {processor.py:641} INFO - Processing file /opt/airflow/dags/reto_tecnico_everst.py for tasks to queue
+[2023-03-16 22:36:15,907] {logging_mixin.py:115} INFO - [2023-03-16 22:36:15,906] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 22:36:16,671] {processor.py:651} INFO - DAG(s) dict_keys(['reto_tecnico_everst']) retrieved from /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 22:36:16,707] {logging_mixin.py:115} INFO - [2023-03-16 22:36:16,707] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-03-16 22:36:16,741] {logging_mixin.py:115} INFO - [2023-03-16 22:36:16,741] {dag.py:2919} INFO - Setting next_dagrun for reto_tecnico_everst to 2023-03-16T22:00:00+00:00, run_after=2023-03-16T23:00:00+00:00
+[2023-03-16 22:36:16,784] {processor.py:161} INFO - Processing /opt/airflow/dags/reto_tecnico_everst.py took 0.889 seconds
+[2023-03-16 22:36:46,994] {processor.py:153} INFO - Started process (PID=1742) to work on /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 22:36:46,996] {processor.py:641} INFO - Processing file /opt/airflow/dags/reto_tecnico_everst.py for tasks to queue
+[2023-03-16 22:36:46,998] {logging_mixin.py:115} INFO - [2023-03-16 22:36:46,998] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 22:36:47,620] {processor.py:651} INFO - DAG(s) dict_keys(['reto_tecnico_everst']) retrieved from /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 22:36:47,650] {logging_mixin.py:115} INFO - [2023-03-16 22:36:47,649] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-03-16 22:36:47,678] {logging_mixin.py:115} INFO - [2023-03-16 22:36:47,678] {dag.py:2919} INFO - Setting next_dagrun for reto_tecnico_everst to 2023-03-16T22:00:00+00:00, run_after=2023-03-16T23:00:00+00:00
+[2023-03-16 22:36:47,715] {processor.py:161} INFO - Processing /opt/airflow/dags/reto_tecnico_everst.py took 0.730 seconds
+[2023-03-16 22:37:17,883] {processor.py:153} INFO - Started process (PID=1748) to work on /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 22:37:17,885] {processor.py:641} INFO - Processing file /opt/airflow/dags/reto_tecnico_everst.py for tasks to queue
+[2023-03-16 22:37:17,887] {logging_mixin.py:115} INFO - [2023-03-16 22:37:17,887] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 22:37:18,670] {processor.py:651} INFO - DAG(s) dict_keys(['reto_tecnico_everst']) retrieved from /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 22:37:18,698] {logging_mixin.py:115} INFO - [2023-03-16 22:37:18,698] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-03-16 22:37:18,728] {logging_mixin.py:115} INFO - [2023-03-16 22:37:18,727] {dag.py:2919} INFO - Setting next_dagrun for reto_tecnico_everst to 2023-03-16T22:00:00+00:00, run_after=2023-03-16T23:00:00+00:00
+[2023-03-16 22:37:18,831] {processor.py:161} INFO - Processing /opt/airflow/dags/reto_tecnico_everst.py took 0.959 seconds
+[2023-03-16 22:37:48,994] {processor.py:153} INFO - Started process (PID=1754) to work on /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 22:37:48,995] {processor.py:641} INFO - Processing file /opt/airflow/dags/reto_tecnico_everst.py for tasks to queue
+[2023-03-16 22:37:48,996] {logging_mixin.py:115} INFO - [2023-03-16 22:37:48,996] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 22:37:49,801] {processor.py:651} INFO - DAG(s) dict_keys(['reto_tecnico_everst']) retrieved from /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 22:37:49,825] {logging_mixin.py:115} INFO - [2023-03-16 22:37:49,824] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-03-16 22:37:49,850] {logging_mixin.py:115} INFO - [2023-03-16 22:37:49,850] {dag.py:2919} INFO - Setting next_dagrun for reto_tecnico_everst to 2023-03-16T22:00:00+00:00, run_after=2023-03-16T23:00:00+00:00
+[2023-03-16 22:37:49,879] {processor.py:161} INFO - Processing /opt/airflow/dags/reto_tecnico_everst.py took 0.889 seconds
+[2023-03-16 22:38:20,062] {processor.py:153} INFO - Started process (PID=1760) to work on /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 22:38:20,065] {processor.py:641} INFO - Processing file /opt/airflow/dags/reto_tecnico_everst.py for tasks to queue
+[2023-03-16 22:38:20,067] {logging_mixin.py:115} INFO - [2023-03-16 22:38:20,066] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 22:38:20,856] {processor.py:651} INFO - DAG(s) dict_keys(['reto_tecnico_everst']) retrieved from /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 22:38:20,890] {logging_mixin.py:115} INFO - [2023-03-16 22:38:20,888] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-03-16 22:38:20,923] {logging_mixin.py:115} INFO - [2023-03-16 22:38:20,922] {dag.py:2919} INFO - Setting next_dagrun for reto_tecnico_everst to 2023-03-16T22:00:00+00:00, run_after=2023-03-16T23:00:00+00:00
+[2023-03-16 22:38:20,973] {processor.py:161} INFO - Processing /opt/airflow/dags/reto_tecnico_everst.py took 0.927 seconds
+[2023-03-16 22:38:51,133] {processor.py:153} INFO - Started process (PID=1766) to work on /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 22:38:51,134] {processor.py:641} INFO - Processing file /opt/airflow/dags/reto_tecnico_everst.py for tasks to queue
+[2023-03-16 22:38:51,135] {logging_mixin.py:115} INFO - [2023-03-16 22:38:51,135] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 22:38:51,997] {processor.py:651} INFO - DAG(s) dict_keys(['reto_tecnico_everst']) retrieved from /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 22:38:52,030] {logging_mixin.py:115} INFO - [2023-03-16 22:38:52,029] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-03-16 22:38:52,061] {logging_mixin.py:115} INFO - [2023-03-16 22:38:52,060] {dag.py:2919} INFO - Setting next_dagrun for reto_tecnico_everst to 2023-03-16T22:00:00+00:00, run_after=2023-03-16T23:00:00+00:00
+[2023-03-16 22:38:52,093] {processor.py:161} INFO - Processing /opt/airflow/dags/reto_tecnico_everst.py took 0.966 seconds
+[2023-03-16 22:39:22,281] {processor.py:153} INFO - Started process (PID=1775) to work on /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 22:39:22,284] {processor.py:641} INFO - Processing file /opt/airflow/dags/reto_tecnico_everst.py for tasks to queue
+[2023-03-16 22:39:22,286] {logging_mixin.py:115} INFO - [2023-03-16 22:39:22,286] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 22:39:22,926] {processor.py:651} INFO - DAG(s) dict_keys(['reto_tecnico_everst']) retrieved from /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 22:39:22,955] {logging_mixin.py:115} INFO - [2023-03-16 22:39:22,954] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-03-16 22:39:22,984] {logging_mixin.py:115} INFO - [2023-03-16 22:39:22,984] {dag.py:2919} INFO - Setting next_dagrun for reto_tecnico_everst to 2023-03-16T22:00:00+00:00, run_after=2023-03-16T23:00:00+00:00
+[2023-03-16 22:39:23,067] {processor.py:161} INFO - Processing /opt/airflow/dags/reto_tecnico_everst.py took 0.804 seconds
+[2023-03-16 22:39:53,254] {processor.py:153} INFO - Started process (PID=1781) to work on /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 22:39:53,256] {processor.py:641} INFO - Processing file /opt/airflow/dags/reto_tecnico_everst.py for tasks to queue
+[2023-03-16 22:39:53,258] {logging_mixin.py:115} INFO - [2023-03-16 22:39:53,258] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 22:39:54,191] {processor.py:651} INFO - DAG(s) dict_keys(['reto_tecnico_everst']) retrieved from /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 22:39:54,221] {logging_mixin.py:115} INFO - [2023-03-16 22:39:54,220] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-03-16 22:39:54,352] {logging_mixin.py:115} INFO - [2023-03-16 22:39:54,352] {dag.py:2919} INFO - Setting next_dagrun for reto_tecnico_everst to 2023-03-16T22:00:00+00:00, run_after=2023-03-16T23:00:00+00:00
+[2023-03-16 22:39:54,513] {processor.py:161} INFO - Processing /opt/airflow/dags/reto_tecnico_everst.py took 1.263 seconds
+[2023-03-16 22:40:24,738] {processor.py:153} INFO - Started process (PID=1787) to work on /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 22:40:24,739] {processor.py:641} INFO - Processing file /opt/airflow/dags/reto_tecnico_everst.py for tasks to queue
+[2023-03-16 22:40:24,740] {logging_mixin.py:115} INFO - [2023-03-16 22:40:24,740] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 22:40:25,515] {processor.py:651} INFO - DAG(s) dict_keys(['reto_tecnico_everst']) retrieved from /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 22:40:25,544] {logging_mixin.py:115} INFO - [2023-03-16 22:40:25,543] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-03-16 22:40:25,571] {logging_mixin.py:115} INFO - [2023-03-16 22:40:25,571] {dag.py:2919} INFO - Setting next_dagrun for reto_tecnico_everst to 2023-03-16T22:00:00+00:00, run_after=2023-03-16T23:00:00+00:00
+[2023-03-16 22:40:25,651] {processor.py:161} INFO - Processing /opt/airflow/dags/reto_tecnico_everst.py took 0.917 seconds
+[2023-03-16 22:40:55,883] {processor.py:153} INFO - Started process (PID=1793) to work on /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 22:40:55,886] {processor.py:641} INFO - Processing file /opt/airflow/dags/reto_tecnico_everst.py for tasks to queue
+[2023-03-16 22:40:55,889] {logging_mixin.py:115} INFO - [2023-03-16 22:40:55,889] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 22:40:56,724] {processor.py:651} INFO - DAG(s) dict_keys(['reto_tecnico_everst']) retrieved from /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 22:40:56,757] {logging_mixin.py:115} INFO - [2023-03-16 22:40:56,756] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-03-16 22:40:56,789] {logging_mixin.py:115} INFO - [2023-03-16 22:40:56,789] {dag.py:2919} INFO - Setting next_dagrun for reto_tecnico_everst to 2023-03-16T22:00:00+00:00, run_after=2023-03-16T23:00:00+00:00
+[2023-03-16 22:40:56,897] {processor.py:161} INFO - Processing /opt/airflow/dags/reto_tecnico_everst.py took 1.019 seconds
+[2023-03-16 22:41:27,730] {processor.py:153} INFO - Started process (PID=1799) to work on /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 22:41:27,731] {processor.py:641} INFO - Processing file /opt/airflow/dags/reto_tecnico_everst.py for tasks to queue
+[2023-03-16 22:41:27,732] {logging_mixin.py:115} INFO - [2023-03-16 22:41:27,732] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 22:41:28,488] {processor.py:651} INFO - DAG(s) dict_keys(['reto_tecnico_everst']) retrieved from /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 22:41:28,522] {logging_mixin.py:115} INFO - [2023-03-16 22:41:28,521] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-03-16 22:41:28,562] {logging_mixin.py:115} INFO - [2023-03-16 22:41:28,562] {dag.py:2919} INFO - Setting next_dagrun for reto_tecnico_everst to 2023-03-16T22:00:00+00:00, run_after=2023-03-16T23:00:00+00:00
+[2023-03-16 22:41:28,595] {processor.py:161} INFO - Processing /opt/airflow/dags/reto_tecnico_everst.py took 0.872 seconds
+[2023-03-16 22:41:58,865] {processor.py:153} INFO - Started process (PID=1805) to work on /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 22:41:58,867] {processor.py:641} INFO - Processing file /opt/airflow/dags/reto_tecnico_everst.py for tasks to queue
+[2023-03-16 22:41:58,870] {logging_mixin.py:115} INFO - [2023-03-16 22:41:58,870] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 22:41:59,660] {processor.py:651} INFO - DAG(s) dict_keys(['reto_tecnico_everst']) retrieved from /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 22:41:59,696] {logging_mixin.py:115} INFO - [2023-03-16 22:41:59,695] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-03-16 22:41:59,731] {logging_mixin.py:115} INFO - [2023-03-16 22:41:59,731] {dag.py:2919} INFO - Setting next_dagrun for reto_tecnico_everst to 2023-03-16T22:00:00+00:00, run_after=2023-03-16T23:00:00+00:00
+[2023-03-16 22:41:59,779] {processor.py:161} INFO - Processing /opt/airflow/dags/reto_tecnico_everst.py took 0.930 seconds
+[2023-03-16 22:42:30,049] {processor.py:153} INFO - Started process (PID=1811) to work on /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 22:42:30,051] {processor.py:641} INFO - Processing file /opt/airflow/dags/reto_tecnico_everst.py for tasks to queue
+[2023-03-16 22:42:30,053] {logging_mixin.py:115} INFO - [2023-03-16 22:42:30,053] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 22:42:30,850] {processor.py:651} INFO - DAG(s) dict_keys(['reto_tecnico_everst']) retrieved from /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 22:42:30,894] {logging_mixin.py:115} INFO - [2023-03-16 22:42:30,892] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-03-16 22:42:30,937] {logging_mixin.py:115} INFO - [2023-03-16 22:42:30,936] {dag.py:2919} INFO - Setting next_dagrun for reto_tecnico_everst to 2023-03-16T22:00:00+00:00, run_after=2023-03-16T23:00:00+00:00
+[2023-03-16 22:42:31,026] {processor.py:161} INFO - Processing /opt/airflow/dags/reto_tecnico_everst.py took 0.994 seconds
+[2023-03-16 22:42:49,177] {processor.py:153} INFO - Started process (PID=1817) to work on /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 22:42:49,179] {processor.py:641} INFO - Processing file /opt/airflow/dags/reto_tecnico_everst.py for tasks to queue
+[2023-03-16 22:42:49,182] {logging_mixin.py:115} INFO - [2023-03-16 22:42:49,182] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 22:42:50,066] {logging_mixin.py:115} INFO - [2023-03-16 22:42:50,056] {dagbag.py:320} ERROR - Failed to import: /opt/airflow/dags/reto_tecnico_everst.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/reto_tecnico_everst.py", line 151, in <module>
+    download_data >> create_data_municipios
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/taskmixin.py", line 80, in __rshift__
+    self.set_downstream(other)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/taskmixin.py", line 233, in set_downstream
+    self._set_relatives(task_or_task_list, upstream=False, edge_modifier=edge_modifier)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/taskmixin.py", line 174, in _set_relatives
+    task_object.update_relative(self, not upstream)
+AttributeError: 'function' object has no attribute 'update_relative'
+[2023-03-16 22:42:50,066] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 22:42:50,121] {processor.py:161} INFO - Processing /opt/airflow/dags/reto_tecnico_everst.py took 0.965 seconds
+[2023-03-16 22:42:58,204] {processor.py:153} INFO - Started process (PID=1823) to work on /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 22:42:58,205] {processor.py:641} INFO - Processing file /opt/airflow/dags/reto_tecnico_everst.py for tasks to queue
+[2023-03-16 22:42:58,206] {logging_mixin.py:115} INFO - [2023-03-16 22:42:58,206] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 22:42:58,828] {processor.py:651} INFO - DAG(s) dict_keys(['reto_tecnico_everst']) retrieved from /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 22:42:58,866] {logging_mixin.py:115} INFO - [2023-03-16 22:42:58,866] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-03-16 22:42:58,901] {logging_mixin.py:115} INFO - [2023-03-16 22:42:58,901] {dag.py:2919} INFO - Setting next_dagrun for reto_tecnico_everst to 2023-03-16T22:00:00+00:00, run_after=2023-03-16T23:00:00+00:00
+[2023-03-16 22:42:59,136] {processor.py:161} INFO - Processing /opt/airflow/dags/reto_tecnico_everst.py took 0.935 seconds
+[2023-03-16 22:43:29,360] {processor.py:153} INFO - Started process (PID=1829) to work on /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 22:43:29,361] {processor.py:641} INFO - Processing file /opt/airflow/dags/reto_tecnico_everst.py for tasks to queue
+[2023-03-16 22:43:29,363] {logging_mixin.py:115} INFO - [2023-03-16 22:43:29,363] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 22:43:30,193] {processor.py:651} INFO - DAG(s) dict_keys(['reto_tecnico_everst']) retrieved from /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 22:43:30,215] {logging_mixin.py:115} INFO - [2023-03-16 22:43:30,215] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-03-16 22:43:30,243] {logging_mixin.py:115} INFO - [2023-03-16 22:43:30,242] {dag.py:2919} INFO - Setting next_dagrun for reto_tecnico_everst to 2023-03-16T22:00:00+00:00, run_after=2023-03-16T23:00:00+00:00
+[2023-03-16 22:43:30,279] {processor.py:161} INFO - Processing /opt/airflow/dags/reto_tecnico_everst.py took 0.937 seconds
+[2023-03-16 22:44:00,552] {processor.py:153} INFO - Started process (PID=1835) to work on /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 22:44:00,554] {processor.py:641} INFO - Processing file /opt/airflow/dags/reto_tecnico_everst.py for tasks to queue
+[2023-03-16 22:44:00,556] {logging_mixin.py:115} INFO - [2023-03-16 22:44:00,556] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 22:44:01,400] {processor.py:651} INFO - DAG(s) dict_keys(['reto_tecnico_everst']) retrieved from /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 22:44:01,428] {logging_mixin.py:115} INFO - [2023-03-16 22:44:01,428] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-03-16 22:44:01,456] {logging_mixin.py:115} INFO - [2023-03-16 22:44:01,456] {dag.py:2919} INFO - Setting next_dagrun for reto_tecnico_everst to 2023-03-16T22:00:00+00:00, run_after=2023-03-16T23:00:00+00:00
+[2023-03-16 22:44:01,502] {processor.py:161} INFO - Processing /opt/airflow/dags/reto_tecnico_everst.py took 0.964 seconds
+[2023-03-16 22:44:31,792] {processor.py:153} INFO - Started process (PID=1841) to work on /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 22:44:31,793] {processor.py:641} INFO - Processing file /opt/airflow/dags/reto_tecnico_everst.py for tasks to queue
+[2023-03-16 22:44:31,794] {logging_mixin.py:115} INFO - [2023-03-16 22:44:31,794] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 22:44:32,587] {processor.py:651} INFO - DAG(s) dict_keys(['reto_tecnico_everst']) retrieved from /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 22:44:32,627] {logging_mixin.py:115} INFO - [2023-03-16 22:44:32,626] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-03-16 22:44:32,658] {logging_mixin.py:115} INFO - [2023-03-16 22:44:32,658] {dag.py:2919} INFO - Setting next_dagrun for reto_tecnico_everst to 2023-03-16T22:00:00+00:00, run_after=2023-03-16T23:00:00+00:00
+[2023-03-16 22:44:32,707] {processor.py:161} INFO - Processing /opt/airflow/dags/reto_tecnico_everst.py took 0.919 seconds
+[2023-03-16 22:45:02,942] {processor.py:153} INFO - Started process (PID=1847) to work on /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 22:45:02,943] {processor.py:641} INFO - Processing file /opt/airflow/dags/reto_tecnico_everst.py for tasks to queue
+[2023-03-16 22:45:02,944] {logging_mixin.py:115} INFO - [2023-03-16 22:45:02,944] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 22:45:03,688] {processor.py:651} INFO - DAG(s) dict_keys(['reto_tecnico_everst']) retrieved from /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 22:45:03,716] {logging_mixin.py:115} INFO - [2023-03-16 22:45:03,716] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-03-16 22:45:03,745] {logging_mixin.py:115} INFO - [2023-03-16 22:45:03,745] {dag.py:2919} INFO - Setting next_dagrun for reto_tecnico_everst to 2023-03-16T22:00:00+00:00, run_after=2023-03-16T23:00:00+00:00
+[2023-03-16 22:45:03,791] {processor.py:161} INFO - Processing /opt/airflow/dags/reto_tecnico_everst.py took 0.853 seconds
+[2023-03-16 22:45:34,073] {processor.py:153} INFO - Started process (PID=1853) to work on /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 22:45:34,075] {processor.py:641} INFO - Processing file /opt/airflow/dags/reto_tecnico_everst.py for tasks to queue
+[2023-03-16 22:45:34,078] {logging_mixin.py:115} INFO - [2023-03-16 22:45:34,078] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 22:45:34,896] {processor.py:651} INFO - DAG(s) dict_keys(['reto_tecnico_everst']) retrieved from /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 22:45:34,923] {logging_mixin.py:115} INFO - [2023-03-16 22:45:34,923] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-03-16 22:45:34,952] {logging_mixin.py:115} INFO - [2023-03-16 22:45:34,952] {dag.py:2919} INFO - Setting next_dagrun for reto_tecnico_everst to 2023-03-16T22:00:00+00:00, run_after=2023-03-16T23:00:00+00:00
+[2023-03-16 22:45:34,996] {processor.py:161} INFO - Processing /opt/airflow/dags/reto_tecnico_everst.py took 0.927 seconds
+[2023-03-16 22:46:05,876] {processor.py:153} INFO - Started process (PID=1859) to work on /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 22:46:05,878] {processor.py:641} INFO - Processing file /opt/airflow/dags/reto_tecnico_everst.py for tasks to queue
+[2023-03-16 22:46:05,881] {logging_mixin.py:115} INFO - [2023-03-16 22:46:05,880] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 22:46:06,678] {processor.py:651} INFO - DAG(s) dict_keys(['reto_tecnico_everst']) retrieved from /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 22:46:06,710] {logging_mixin.py:115} INFO - [2023-03-16 22:46:06,709] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-03-16 22:46:06,739] {logging_mixin.py:115} INFO - [2023-03-16 22:46:06,739] {dag.py:2919} INFO - Setting next_dagrun for reto_tecnico_everst to 2023-03-16T22:00:00+00:00, run_after=2023-03-16T23:00:00+00:00
+[2023-03-16 22:46:06,783] {processor.py:161} INFO - Processing /opt/airflow/dags/reto_tecnico_everst.py took 0.916 seconds
+[2023-03-16 22:46:37,061] {processor.py:153} INFO - Started process (PID=1865) to work on /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 22:46:37,063] {processor.py:641} INFO - Processing file /opt/airflow/dags/reto_tecnico_everst.py for tasks to queue
+[2023-03-16 22:46:37,065] {logging_mixin.py:115} INFO - [2023-03-16 22:46:37,065] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 22:46:37,849] {processor.py:651} INFO - DAG(s) dict_keys(['reto_tecnico_everst']) retrieved from /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 22:46:37,877] {logging_mixin.py:115} INFO - [2023-03-16 22:46:37,877] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-03-16 22:46:37,905] {logging_mixin.py:115} INFO - [2023-03-16 22:46:37,905] {dag.py:2919} INFO - Setting next_dagrun for reto_tecnico_everst to 2023-03-16T22:00:00+00:00, run_after=2023-03-16T23:00:00+00:00
+[2023-03-16 22:46:37,964] {processor.py:161} INFO - Processing /opt/airflow/dags/reto_tecnico_everst.py took 0.906 seconds
+[2023-03-16 22:47:08,243] {processor.py:153} INFO - Started process (PID=1871) to work on /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 22:47:08,245] {processor.py:641} INFO - Processing file /opt/airflow/dags/reto_tecnico_everst.py for tasks to queue
+[2023-03-16 22:47:08,247] {logging_mixin.py:115} INFO - [2023-03-16 22:47:08,247] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 22:47:09,042] {processor.py:651} INFO - DAG(s) dict_keys(['reto_tecnico_everst']) retrieved from /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 22:47:09,078] {logging_mixin.py:115} INFO - [2023-03-16 22:47:09,077] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-03-16 22:47:09,149] {logging_mixin.py:115} INFO - [2023-03-16 22:47:09,149] {dag.py:2919} INFO - Setting next_dagrun for reto_tecnico_everst to 2023-03-16T22:00:00+00:00, run_after=2023-03-16T23:00:00+00:00
+[2023-03-16 22:47:09,206] {processor.py:161} INFO - Processing /opt/airflow/dags/reto_tecnico_everst.py took 0.979 seconds
+[2023-03-16 22:47:39,461] {processor.py:153} INFO - Started process (PID=1877) to work on /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 22:47:39,462] {processor.py:641} INFO - Processing file /opt/airflow/dags/reto_tecnico_everst.py for tasks to queue
+[2023-03-16 22:47:39,463] {logging_mixin.py:115} INFO - [2023-03-16 22:47:39,463] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 22:47:40,290] {processor.py:651} INFO - DAG(s) dict_keys(['reto_tecnico_everst']) retrieved from /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 22:47:40,320] {logging_mixin.py:115} INFO - [2023-03-16 22:47:40,320] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-03-16 22:47:40,349] {logging_mixin.py:115} INFO - [2023-03-16 22:47:40,349] {dag.py:2919} INFO - Setting next_dagrun for reto_tecnico_everst to 2023-03-16T22:00:00+00:00, run_after=2023-03-16T23:00:00+00:00
+[2023-03-16 22:47:40,381] {processor.py:161} INFO - Processing /opt/airflow/dags/reto_tecnico_everst.py took 0.923 seconds
+[2023-03-16 22:48:10,635] {processor.py:153} INFO - Started process (PID=1883) to work on /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 22:48:10,637] {processor.py:641} INFO - Processing file /opt/airflow/dags/reto_tecnico_everst.py for tasks to queue
+[2023-03-16 22:48:10,639] {logging_mixin.py:115} INFO - [2023-03-16 22:48:10,639] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 22:48:11,419] {processor.py:651} INFO - DAG(s) dict_keys(['reto_tecnico_everst']) retrieved from /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 22:48:11,453] {logging_mixin.py:115} INFO - [2023-03-16 22:48:11,452] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-03-16 22:48:11,482] {logging_mixin.py:115} INFO - [2023-03-16 22:48:11,482] {dag.py:2919} INFO - Setting next_dagrun for reto_tecnico_everst to 2023-03-16T22:00:00+00:00, run_after=2023-03-16T23:00:00+00:00
+[2023-03-16 22:48:11,519] {processor.py:161} INFO - Processing /opt/airflow/dags/reto_tecnico_everst.py took 0.891 seconds
+[2023-03-16 22:48:41,771] {processor.py:153} INFO - Started process (PID=1889) to work on /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 22:48:41,773] {processor.py:641} INFO - Processing file /opt/airflow/dags/reto_tecnico_everst.py for tasks to queue
+[2023-03-16 22:48:41,775] {logging_mixin.py:115} INFO - [2023-03-16 22:48:41,775] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 22:48:42,566] {processor.py:651} INFO - DAG(s) dict_keys(['reto_tecnico_everst']) retrieved from /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 22:48:42,594] {logging_mixin.py:115} INFO - [2023-03-16 22:48:42,593] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-03-16 22:48:42,621] {logging_mixin.py:115} INFO - [2023-03-16 22:48:42,621] {dag.py:2919} INFO - Setting next_dagrun for reto_tecnico_everst to 2023-03-16T22:00:00+00:00, run_after=2023-03-16T23:00:00+00:00
+[2023-03-16 22:48:42,713] {processor.py:161} INFO - Processing /opt/airflow/dags/reto_tecnico_everst.py took 0.946 seconds
+[2023-03-16 22:49:12,970] {processor.py:153} INFO - Started process (PID=1895) to work on /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 22:49:12,971] {processor.py:641} INFO - Processing file /opt/airflow/dags/reto_tecnico_everst.py for tasks to queue
+[2023-03-16 22:49:12,973] {logging_mixin.py:115} INFO - [2023-03-16 22:49:12,973] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 22:49:13,747] {processor.py:651} INFO - DAG(s) dict_keys(['reto_tecnico_everst']) retrieved from /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 22:49:13,808] {logging_mixin.py:115} INFO - [2023-03-16 22:49:13,807] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-03-16 22:49:13,839] {logging_mixin.py:115} INFO - [2023-03-16 22:49:13,839] {dag.py:2919} INFO - Setting next_dagrun for reto_tecnico_everst to 2023-03-16T22:00:00+00:00, run_after=2023-03-16T23:00:00+00:00
+[2023-03-16 22:49:13,884] {processor.py:161} INFO - Processing /opt/airflow/dags/reto_tecnico_everst.py took 0.928 seconds
+[2023-03-16 22:49:44,178] {processor.py:153} INFO - Started process (PID=1901) to work on /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 22:49:44,180] {processor.py:641} INFO - Processing file /opt/airflow/dags/reto_tecnico_everst.py for tasks to queue
+[2023-03-16 22:49:44,182] {logging_mixin.py:115} INFO - [2023-03-16 22:49:44,182] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 22:49:44,971] {processor.py:651} INFO - DAG(s) dict_keys(['reto_tecnico_everst']) retrieved from /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 22:49:45,000] {logging_mixin.py:115} INFO - [2023-03-16 22:49:44,999] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-03-16 22:49:45,028] {logging_mixin.py:115} INFO - [2023-03-16 22:49:45,028] {dag.py:2919} INFO - Setting next_dagrun for reto_tecnico_everst to 2023-03-16T22:00:00+00:00, run_after=2023-03-16T23:00:00+00:00
+[2023-03-16 22:49:45,072] {processor.py:161} INFO - Processing /opt/airflow/dags/reto_tecnico_everst.py took 0.907 seconds
+[2023-03-16 22:50:15,342] {processor.py:153} INFO - Started process (PID=1907) to work on /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 22:50:15,344] {processor.py:641} INFO - Processing file /opt/airflow/dags/reto_tecnico_everst.py for tasks to queue
+[2023-03-16 22:50:15,346] {logging_mixin.py:115} INFO - [2023-03-16 22:50:15,345] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 22:50:16,155] {processor.py:651} INFO - DAG(s) dict_keys(['reto_tecnico_everst']) retrieved from /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 22:50:16,184] {logging_mixin.py:115} INFO - [2023-03-16 22:50:16,184] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-03-16 22:50:16,216] {logging_mixin.py:115} INFO - [2023-03-16 22:50:16,216] {dag.py:2919} INFO - Setting next_dagrun for reto_tecnico_everst to 2023-03-16T22:00:00+00:00, run_after=2023-03-16T23:00:00+00:00
+[2023-03-16 22:50:16,248] {processor.py:161} INFO - Processing /opt/airflow/dags/reto_tecnico_everst.py took 0.915 seconds
+[2023-03-16 22:50:46,485] {processor.py:153} INFO - Started process (PID=1913) to work on /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 22:50:46,486] {processor.py:641} INFO - Processing file /opt/airflow/dags/reto_tecnico_everst.py for tasks to queue
+[2023-03-16 22:50:46,488] {logging_mixin.py:115} INFO - [2023-03-16 22:50:46,488] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 22:50:47,266] {processor.py:651} INFO - DAG(s) dict_keys(['reto_tecnico_everst']) retrieved from /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 22:50:47,299] {logging_mixin.py:115} INFO - [2023-03-16 22:50:47,298] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-03-16 22:50:47,396] {logging_mixin.py:115} INFO - [2023-03-16 22:50:47,396] {dag.py:2919} INFO - Setting next_dagrun for reto_tecnico_everst to 2023-03-16T22:00:00+00:00, run_after=2023-03-16T23:00:00+00:00
+[2023-03-16 22:50:47,438] {processor.py:161} INFO - Processing /opt/airflow/dags/reto_tecnico_everst.py took 0.967 seconds
+[2023-03-16 22:51:18,383] {processor.py:153} INFO - Started process (PID=1919) to work on /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 22:51:18,384] {processor.py:641} INFO - Processing file /opt/airflow/dags/reto_tecnico_everst.py for tasks to queue
+[2023-03-16 22:51:18,385] {logging_mixin.py:115} INFO - [2023-03-16 22:51:18,385] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 22:51:19,154] {processor.py:651} INFO - DAG(s) dict_keys(['reto_tecnico_everst']) retrieved from /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 22:51:19,178] {logging_mixin.py:115} INFO - [2023-03-16 22:51:19,178] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-03-16 22:51:19,206] {logging_mixin.py:115} INFO - [2023-03-16 22:51:19,206] {dag.py:2919} INFO - Setting next_dagrun for reto_tecnico_everst to 2023-03-16T22:00:00+00:00, run_after=2023-03-16T23:00:00+00:00
+[2023-03-16 22:51:19,235] {processor.py:161} INFO - Processing /opt/airflow/dags/reto_tecnico_everst.py took 0.858 seconds
+[2023-03-16 22:51:49,502] {processor.py:153} INFO - Started process (PID=1925) to work on /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 22:51:49,505] {processor.py:641} INFO - Processing file /opt/airflow/dags/reto_tecnico_everst.py for tasks to queue
+[2023-03-16 22:51:49,508] {logging_mixin.py:115} INFO - [2023-03-16 22:51:49,507] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 22:51:50,364] {processor.py:651} INFO - DAG(s) dict_keys(['reto_tecnico_everst']) retrieved from /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 22:51:50,394] {logging_mixin.py:115} INFO - [2023-03-16 22:51:50,393] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-03-16 22:51:50,424] {logging_mixin.py:115} INFO - [2023-03-16 22:51:50,424] {dag.py:2919} INFO - Setting next_dagrun for reto_tecnico_everst to 2023-03-16T22:00:00+00:00, run_after=2023-03-16T23:00:00+00:00
+[2023-03-16 22:51:50,517] {processor.py:161} INFO - Processing /opt/airflow/dags/reto_tecnico_everst.py took 1.024 seconds
+[2023-03-16 22:52:20,718] {processor.py:153} INFO - Started process (PID=1931) to work on /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 22:52:20,719] {processor.py:641} INFO - Processing file /opt/airflow/dags/reto_tecnico_everst.py for tasks to queue
+[2023-03-16 22:52:20,720] {logging_mixin.py:115} INFO - [2023-03-16 22:52:20,720] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 22:52:21,545] {processor.py:651} INFO - DAG(s) dict_keys(['reto_tecnico_everst']) retrieved from /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 22:52:21,581] {logging_mixin.py:115} INFO - [2023-03-16 22:52:21,580] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-03-16 22:52:21,634] {logging_mixin.py:115} INFO - [2023-03-16 22:52:21,634] {dag.py:2919} INFO - Setting next_dagrun for reto_tecnico_everst to 2023-03-16T22:00:00+00:00, run_after=2023-03-16T23:00:00+00:00
+[2023-03-16 22:52:21,684] {processor.py:161} INFO - Processing /opt/airflow/dags/reto_tecnico_everst.py took 0.969 seconds
+[2023-03-16 22:52:51,958] {processor.py:153} INFO - Started process (PID=1937) to work on /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 22:52:51,960] {processor.py:641} INFO - Processing file /opt/airflow/dags/reto_tecnico_everst.py for tasks to queue
+[2023-03-16 22:52:51,961] {logging_mixin.py:115} INFO - [2023-03-16 22:52:51,961] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 22:52:52,763] {processor.py:651} INFO - DAG(s) dict_keys(['reto_tecnico_everst']) retrieved from /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 22:52:52,793] {logging_mixin.py:115} INFO - [2023-03-16 22:52:52,792] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-03-16 22:52:52,820] {logging_mixin.py:115} INFO - [2023-03-16 22:52:52,820] {dag.py:2919} INFO - Setting next_dagrun for reto_tecnico_everst to 2023-03-16T22:00:00+00:00, run_after=2023-03-16T23:00:00+00:00
+[2023-03-16 22:52:52,872] {processor.py:161} INFO - Processing /opt/airflow/dags/reto_tecnico_everst.py took 0.928 seconds
+[2023-03-16 22:53:23,126] {processor.py:153} INFO - Started process (PID=1943) to work on /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 22:53:23,128] {processor.py:641} INFO - Processing file /opt/airflow/dags/reto_tecnico_everst.py for tasks to queue
+[2023-03-16 22:53:23,130] {logging_mixin.py:115} INFO - [2023-03-16 22:53:23,130] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 22:53:24,139] {processor.py:651} INFO - DAG(s) dict_keys(['reto_tecnico_everst']) retrieved from /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 22:53:24,187] {logging_mixin.py:115} INFO - [2023-03-16 22:53:24,186] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-03-16 22:53:24,241] {logging_mixin.py:115} INFO - [2023-03-16 22:53:24,241] {dag.py:2919} INFO - Setting next_dagrun for reto_tecnico_everst to 2023-03-16T22:00:00+00:00, run_after=2023-03-16T23:00:00+00:00
+[2023-03-16 22:53:24,282] {processor.py:161} INFO - Processing /opt/airflow/dags/reto_tecnico_everst.py took 1.170 seconds
+[2023-03-16 22:53:54,540] {processor.py:153} INFO - Started process (PID=1949) to work on /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 22:53:54,543] {processor.py:641} INFO - Processing file /opt/airflow/dags/reto_tecnico_everst.py for tasks to queue
+[2023-03-16 22:53:54,545] {logging_mixin.py:115} INFO - [2023-03-16 22:53:54,545] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 22:53:55,457] {processor.py:651} INFO - DAG(s) dict_keys(['reto_tecnico_everst']) retrieved from /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 22:53:55,497] {logging_mixin.py:115} INFO - [2023-03-16 22:53:55,495] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-03-16 22:53:55,533] {logging_mixin.py:115} INFO - [2023-03-16 22:53:55,533] {dag.py:2919} INFO - Setting next_dagrun for reto_tecnico_everst to 2023-03-16T22:00:00+00:00, run_after=2023-03-16T23:00:00+00:00
+[2023-03-16 22:53:55,573] {processor.py:161} INFO - Processing /opt/airflow/dags/reto_tecnico_everst.py took 1.042 seconds
+[2023-03-16 22:54:25,698] {processor.py:153} INFO - Started process (PID=1955) to work on /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 22:54:25,699] {processor.py:641} INFO - Processing file /opt/airflow/dags/reto_tecnico_everst.py for tasks to queue
+[2023-03-16 22:54:25,702] {logging_mixin.py:115} INFO - [2023-03-16 22:54:25,702] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 22:54:26,515] {processor.py:651} INFO - DAG(s) dict_keys(['reto_tecnico_everst']) retrieved from /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 22:54:26,555] {logging_mixin.py:115} INFO - [2023-03-16 22:54:26,554] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-03-16 22:54:26,589] {logging_mixin.py:115} INFO - [2023-03-16 22:54:26,589] {dag.py:2919} INFO - Setting next_dagrun for reto_tecnico_everst to 2023-03-16T22:00:00+00:00, run_after=2023-03-16T23:00:00+00:00
+[2023-03-16 22:54:26,672] {processor.py:161} INFO - Processing /opt/airflow/dags/reto_tecnico_everst.py took 0.977 seconds
+[2023-03-16 22:54:56,887] {processor.py:153} INFO - Started process (PID=1961) to work on /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 22:54:56,889] {processor.py:641} INFO - Processing file /opt/airflow/dags/reto_tecnico_everst.py for tasks to queue
+[2023-03-16 22:54:56,891] {logging_mixin.py:115} INFO - [2023-03-16 22:54:56,891] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 22:54:57,753] {processor.py:651} INFO - DAG(s) dict_keys(['reto_tecnico_everst']) retrieved from /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 22:54:57,789] {logging_mixin.py:115} INFO - [2023-03-16 22:54:57,788] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-03-16 22:54:57,821] {logging_mixin.py:115} INFO - [2023-03-16 22:54:57,821] {dag.py:2919} INFO - Setting next_dagrun for reto_tecnico_everst to 2023-03-16T22:00:00+00:00, run_after=2023-03-16T23:00:00+00:00
+[2023-03-16 22:54:57,852] {processor.py:161} INFO - Processing /opt/airflow/dags/reto_tecnico_everst.py took 0.970 seconds
+[2023-03-16 22:55:28,102] {processor.py:153} INFO - Started process (PID=1967) to work on /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 22:55:28,103] {processor.py:641} INFO - Processing file /opt/airflow/dags/reto_tecnico_everst.py for tasks to queue
+[2023-03-16 22:55:28,104] {logging_mixin.py:115} INFO - [2023-03-16 22:55:28,104] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 22:55:28,898] {processor.py:651} INFO - DAG(s) dict_keys(['reto_tecnico_everst']) retrieved from /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 22:55:28,938] {logging_mixin.py:115} INFO - [2023-03-16 22:55:28,936] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-03-16 22:55:28,971] {logging_mixin.py:115} INFO - [2023-03-16 22:55:28,971] {dag.py:2919} INFO - Setting next_dagrun for reto_tecnico_everst to 2023-03-16T22:00:00+00:00, run_after=2023-03-16T23:00:00+00:00
+[2023-03-16 22:55:29,021] {processor.py:161} INFO - Processing /opt/airflow/dags/reto_tecnico_everst.py took 0.922 seconds
+[2023-03-16 22:55:59,255] {processor.py:153} INFO - Started process (PID=1973) to work on /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 22:55:59,256] {processor.py:641} INFO - Processing file /opt/airflow/dags/reto_tecnico_everst.py for tasks to queue
+[2023-03-16 22:55:59,258] {logging_mixin.py:115} INFO - [2023-03-16 22:55:59,258] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 22:56:00,241] {processor.py:651} INFO - DAG(s) dict_keys(['reto_tecnico_everst']) retrieved from /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 22:56:00,284] {logging_mixin.py:115} INFO - [2023-03-16 22:56:00,282] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-03-16 22:56:00,321] {logging_mixin.py:115} INFO - [2023-03-16 22:56:00,320] {dag.py:2919} INFO - Setting next_dagrun for reto_tecnico_everst to 2023-03-16T22:00:00+00:00, run_after=2023-03-16T23:00:00+00:00
+[2023-03-16 22:56:00,359] {processor.py:161} INFO - Processing /opt/airflow/dags/reto_tecnico_everst.py took 1.109 seconds
+[2023-03-16 22:56:31,312] {processor.py:153} INFO - Started process (PID=1979) to work on /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 22:56:31,314] {processor.py:641} INFO - Processing file /opt/airflow/dags/reto_tecnico_everst.py for tasks to queue
+[2023-03-16 22:56:31,316] {logging_mixin.py:115} INFO - [2023-03-16 22:56:31,316] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 22:56:32,164] {processor.py:651} INFO - DAG(s) dict_keys(['reto_tecnico_everst']) retrieved from /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 22:56:32,195] {logging_mixin.py:115} INFO - [2023-03-16 22:56:32,194] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-03-16 22:56:32,223] {logging_mixin.py:115} INFO - [2023-03-16 22:56:32,223] {dag.py:2919} INFO - Setting next_dagrun for reto_tecnico_everst to 2023-03-16T22:00:00+00:00, run_after=2023-03-16T23:00:00+00:00
+[2023-03-16 22:56:32,267] {processor.py:161} INFO - Processing /opt/airflow/dags/reto_tecnico_everst.py took 0.961 seconds
+[2023-03-16 22:57:02,512] {processor.py:153} INFO - Started process (PID=1985) to work on /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 22:57:02,514] {processor.py:641} INFO - Processing file /opt/airflow/dags/reto_tecnico_everst.py for tasks to queue
+[2023-03-16 22:57:02,516] {logging_mixin.py:115} INFO - [2023-03-16 22:57:02,516] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 22:57:03,297] {processor.py:651} INFO - DAG(s) dict_keys(['reto_tecnico_everst']) retrieved from /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 22:57:03,328] {logging_mixin.py:115} INFO - [2023-03-16 22:57:03,327] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-03-16 22:57:03,356] {logging_mixin.py:115} INFO - [2023-03-16 22:57:03,356] {dag.py:2919} INFO - Setting next_dagrun for reto_tecnico_everst to 2023-03-16T22:00:00+00:00, run_after=2023-03-16T23:00:00+00:00
+[2023-03-16 22:57:03,397] {processor.py:161} INFO - Processing /opt/airflow/dags/reto_tecnico_everst.py took 0.894 seconds
+[2023-03-16 22:57:33,627] {processor.py:153} INFO - Started process (PID=1991) to work on /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 22:57:33,628] {processor.py:641} INFO - Processing file /opt/airflow/dags/reto_tecnico_everst.py for tasks to queue
+[2023-03-16 22:57:33,629] {logging_mixin.py:115} INFO - [2023-03-16 22:57:33,629] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 22:57:34,381] {processor.py:651} INFO - DAG(s) dict_keys(['reto_tecnico_everst']) retrieved from /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 22:57:34,414] {logging_mixin.py:115} INFO - [2023-03-16 22:57:34,413] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-03-16 22:57:34,442] {logging_mixin.py:115} INFO - [2023-03-16 22:57:34,442] {dag.py:2919} INFO - Setting next_dagrun for reto_tecnico_everst to 2023-03-16T22:00:00+00:00, run_after=2023-03-16T23:00:00+00:00
+[2023-03-16 22:57:34,490] {processor.py:161} INFO - Processing /opt/airflow/dags/reto_tecnico_everst.py took 0.866 seconds
+[2023-03-16 22:58:04,757] {processor.py:153} INFO - Started process (PID=1997) to work on /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 22:58:04,760] {processor.py:641} INFO - Processing file /opt/airflow/dags/reto_tecnico_everst.py for tasks to queue
+[2023-03-16 22:58:04,763] {logging_mixin.py:115} INFO - [2023-03-16 22:58:04,763] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 22:58:05,634] {processor.py:651} INFO - DAG(s) dict_keys(['reto_tecnico_everst']) retrieved from /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 22:58:05,667] {logging_mixin.py:115} INFO - [2023-03-16 22:58:05,666] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-03-16 22:58:05,697] {logging_mixin.py:115} INFO - [2023-03-16 22:58:05,697] {dag.py:2919} INFO - Setting next_dagrun for reto_tecnico_everst to 2023-03-16T22:00:00+00:00, run_after=2023-03-16T23:00:00+00:00
+[2023-03-16 22:58:05,736] {processor.py:161} INFO - Processing /opt/airflow/dags/reto_tecnico_everst.py took 0.998 seconds
+[2023-03-16 22:58:35,968] {processor.py:153} INFO - Started process (PID=2003) to work on /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 22:58:35,970] {processor.py:641} INFO - Processing file /opt/airflow/dags/reto_tecnico_everst.py for tasks to queue
+[2023-03-16 22:58:35,972] {logging_mixin.py:115} INFO - [2023-03-16 22:58:35,972] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 22:58:36,789] {processor.py:651} INFO - DAG(s) dict_keys(['reto_tecnico_everst']) retrieved from /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 22:58:36,822] {logging_mixin.py:115} INFO - [2023-03-16 22:58:36,821] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-03-16 22:58:36,846] {logging_mixin.py:115} INFO - [2023-03-16 22:58:36,846] {dag.py:2919} INFO - Setting next_dagrun for reto_tecnico_everst to 2023-03-16T22:00:00+00:00, run_after=2023-03-16T23:00:00+00:00
+[2023-03-16 22:58:37,086] {processor.py:161} INFO - Processing /opt/airflow/dags/reto_tecnico_everst.py took 1.134 seconds
+[2023-03-16 22:59:07,148] {processor.py:153} INFO - Started process (PID=2009) to work on /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 22:59:07,149] {processor.py:641} INFO - Processing file /opt/airflow/dags/reto_tecnico_everst.py for tasks to queue
+[2023-03-16 22:59:07,150] {logging_mixin.py:115} INFO - [2023-03-16 22:59:07,150] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 22:59:07,948] {processor.py:651} INFO - DAG(s) dict_keys(['reto_tecnico_everst']) retrieved from /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 22:59:07,984] {logging_mixin.py:115} INFO - [2023-03-16 22:59:07,983] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-03-16 22:59:08,035] {logging_mixin.py:115} INFO - [2023-03-16 22:59:08,035] {dag.py:2919} INFO - Setting next_dagrun for reto_tecnico_everst to 2023-03-16T22:00:00+00:00, run_after=2023-03-16T23:00:00+00:00
+[2023-03-16 22:59:08,066] {processor.py:161} INFO - Processing /opt/airflow/dags/reto_tecnico_everst.py took 0.921 seconds
+[2023-03-16 22:59:38,283] {processor.py:153} INFO - Started process (PID=2015) to work on /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 22:59:38,286] {processor.py:641} INFO - Processing file /opt/airflow/dags/reto_tecnico_everst.py for tasks to queue
+[2023-03-16 22:59:38,288] {logging_mixin.py:115} INFO - [2023-03-16 22:59:38,288] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 22:59:39,098] {processor.py:651} INFO - DAG(s) dict_keys(['reto_tecnico_everst']) retrieved from /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 22:59:39,129] {logging_mixin.py:115} INFO - [2023-03-16 22:59:39,128] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-03-16 22:59:39,161] {logging_mixin.py:115} INFO - [2023-03-16 22:59:39,160] {dag.py:2919} INFO - Setting next_dagrun for reto_tecnico_everst to 2023-03-16T22:00:00+00:00, run_after=2023-03-16T23:00:00+00:00
+[2023-03-16 22:59:39,276] {processor.py:161} INFO - Processing /opt/airflow/dags/reto_tecnico_everst.py took 1.000 seconds
+[2023-03-16 23:00:09,463] {processor.py:153} INFO - Started process (PID=2024) to work on /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 23:00:09,465] {processor.py:641} INFO - Processing file /opt/airflow/dags/reto_tecnico_everst.py for tasks to queue
+[2023-03-16 23:00:09,467] {logging_mixin.py:115} INFO - [2023-03-16 23:00:09,467] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 23:00:09,972] {processor.py:651} INFO - DAG(s) dict_keys(['reto_tecnico_everst']) retrieved from /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 23:00:10,002] {logging_mixin.py:115} INFO - [2023-03-16 23:00:10,001] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-03-16 23:00:10,035] {logging_mixin.py:115} INFO - [2023-03-16 23:00:10,035] {dag.py:2919} INFO - Setting next_dagrun for reto_tecnico_everst to 2023-03-16T23:00:00+00:00, run_after=2023-03-17T00:00:00+00:00
+[2023-03-16 23:00:10,217] {processor.py:161} INFO - Processing /opt/airflow/dags/reto_tecnico_everst.py took 0.764 seconds
+[2023-03-16 23:00:40,505] {processor.py:153} INFO - Started process (PID=2030) to work on /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 23:00:40,508] {processor.py:641} INFO - Processing file /opt/airflow/dags/reto_tecnico_everst.py for tasks to queue
+[2023-03-16 23:00:40,510] {logging_mixin.py:115} INFO - [2023-03-16 23:00:40,510] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 23:00:41,352] {processor.py:651} INFO - DAG(s) dict_keys(['reto_tecnico_everst']) retrieved from /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 23:00:41,381] {logging_mixin.py:115} INFO - [2023-03-16 23:00:41,380] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-03-16 23:00:41,405] {logging_mixin.py:115} INFO - [2023-03-16 23:00:41,405] {dag.py:2919} INFO - Setting next_dagrun for reto_tecnico_everst to 2023-03-16T23:00:00+00:00, run_after=2023-03-17T00:00:00+00:00
+[2023-03-16 23:00:41,504] {processor.py:161} INFO - Processing /opt/airflow/dags/reto_tecnico_everst.py took 1.015 seconds
+[2023-03-16 23:01:12,442] {processor.py:153} INFO - Started process (PID=2036) to work on /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 23:01:12,443] {processor.py:641} INFO - Processing file /opt/airflow/dags/reto_tecnico_everst.py for tasks to queue
+[2023-03-16 23:01:12,445] {logging_mixin.py:115} INFO - [2023-03-16 23:01:12,445] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 23:01:13,198] {processor.py:651} INFO - DAG(s) dict_keys(['reto_tecnico_everst']) retrieved from /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 23:01:13,231] {logging_mixin.py:115} INFO - [2023-03-16 23:01:13,230] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-03-16 23:01:13,263] {logging_mixin.py:115} INFO - [2023-03-16 23:01:13,263] {dag.py:2919} INFO - Setting next_dagrun for reto_tecnico_everst to 2023-03-16T23:00:00+00:00, run_after=2023-03-17T00:00:00+00:00
+[2023-03-16 23:01:13,361] {processor.py:161} INFO - Processing /opt/airflow/dags/reto_tecnico_everst.py took 0.922 seconds
+[2023-03-16 23:01:43,627] {processor.py:153} INFO - Started process (PID=2042) to work on /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 23:01:43,628] {processor.py:641} INFO - Processing file /opt/airflow/dags/reto_tecnico_everst.py for tasks to queue
+[2023-03-16 23:01:43,630] {logging_mixin.py:115} INFO - [2023-03-16 23:01:43,630] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 23:01:44,406] {processor.py:651} INFO - DAG(s) dict_keys(['reto_tecnico_everst']) retrieved from /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 23:01:44,430] {logging_mixin.py:115} INFO - [2023-03-16 23:01:44,430] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-03-16 23:01:44,458] {logging_mixin.py:115} INFO - [2023-03-16 23:01:44,458] {dag.py:2919} INFO - Setting next_dagrun for reto_tecnico_everst to 2023-03-16T23:00:00+00:00, run_after=2023-03-17T00:00:00+00:00
+[2023-03-16 23:01:44,560] {processor.py:161} INFO - Processing /opt/airflow/dags/reto_tecnico_everst.py took 0.947 seconds
+[2023-03-16 23:02:14,784] {processor.py:153} INFO - Started process (PID=2051) to work on /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 23:02:14,785] {processor.py:641} INFO - Processing file /opt/airflow/dags/reto_tecnico_everst.py for tasks to queue
+[2023-03-16 23:02:14,786] {logging_mixin.py:115} INFO - [2023-03-16 23:02:14,786] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 23:02:15,527] {processor.py:651} INFO - DAG(s) dict_keys(['reto_tecnico_everst']) retrieved from /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 23:02:15,554] {logging_mixin.py:115} INFO - [2023-03-16 23:02:15,553] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-03-16 23:02:15,578] {logging_mixin.py:115} INFO - [2023-03-16 23:02:15,578] {dag.py:2919} INFO - Setting next_dagrun for reto_tecnico_everst to 2023-03-16T23:00:00+00:00, run_after=2023-03-17T00:00:00+00:00
+[2023-03-16 23:02:15,641] {processor.py:161} INFO - Processing /opt/airflow/dags/reto_tecnico_everst.py took 0.860 seconds
+[2023-03-16 23:02:45,895] {processor.py:153} INFO - Started process (PID=2057) to work on /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 23:02:45,897] {processor.py:641} INFO - Processing file /opt/airflow/dags/reto_tecnico_everst.py for tasks to queue
+[2023-03-16 23:02:45,898] {logging_mixin.py:115} INFO - [2023-03-16 23:02:45,898] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 23:02:46,674] {processor.py:651} INFO - DAG(s) dict_keys(['reto_tecnico_everst']) retrieved from /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 23:02:46,703] {logging_mixin.py:115} INFO - [2023-03-16 23:02:46,702] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-03-16 23:02:46,725] {logging_mixin.py:115} INFO - [2023-03-16 23:02:46,725] {dag.py:2919} INFO - Setting next_dagrun for reto_tecnico_everst to 2023-03-16T23:00:00+00:00, run_after=2023-03-17T00:00:00+00:00
+[2023-03-16 23:02:46,773] {processor.py:161} INFO - Processing /opt/airflow/dags/reto_tecnico_everst.py took 0.882 seconds
+[2023-03-16 23:03:17,049] {processor.py:153} INFO - Started process (PID=2063) to work on /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 23:03:17,051] {processor.py:641} INFO - Processing file /opt/airflow/dags/reto_tecnico_everst.py for tasks to queue
+[2023-03-16 23:03:17,053] {logging_mixin.py:115} INFO - [2023-03-16 23:03:17,053] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 23:03:17,854] {processor.py:651} INFO - DAG(s) dict_keys(['reto_tecnico_everst']) retrieved from /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 23:03:17,884] {logging_mixin.py:115} INFO - [2023-03-16 23:03:17,883] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-03-16 23:03:17,912] {logging_mixin.py:115} INFO - [2023-03-16 23:03:17,912] {dag.py:2919} INFO - Setting next_dagrun for reto_tecnico_everst to 2023-03-16T23:00:00+00:00, run_after=2023-03-17T00:00:00+00:00
+[2023-03-16 23:03:18,035] {processor.py:161} INFO - Processing /opt/airflow/dags/reto_tecnico_everst.py took 1.001 seconds
+[2023-03-16 23:03:48,242] {processor.py:153} INFO - Started process (PID=2069) to work on /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 23:03:48,242] {processor.py:641} INFO - Processing file /opt/airflow/dags/reto_tecnico_everst.py for tasks to queue
+[2023-03-16 23:03:48,244] {logging_mixin.py:115} INFO - [2023-03-16 23:03:48,243] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 23:03:48,987] {processor.py:651} INFO - DAG(s) dict_keys(['reto_tecnico_everst']) retrieved from /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 23:03:49,015] {logging_mixin.py:115} INFO - [2023-03-16 23:03:49,014] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-03-16 23:03:49,042] {logging_mixin.py:115} INFO - [2023-03-16 23:03:49,041] {dag.py:2919} INFO - Setting next_dagrun for reto_tecnico_everst to 2023-03-16T23:00:00+00:00, run_after=2023-03-17T00:00:00+00:00
+[2023-03-16 23:03:49,082] {processor.py:161} INFO - Processing /opt/airflow/dags/reto_tecnico_everst.py took 0.843 seconds
+[2023-03-16 23:04:19,354] {processor.py:153} INFO - Started process (PID=2075) to work on /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 23:04:19,356] {processor.py:641} INFO - Processing file /opt/airflow/dags/reto_tecnico_everst.py for tasks to queue
+[2023-03-16 23:04:19,358] {logging_mixin.py:115} INFO - [2023-03-16 23:04:19,358] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 23:04:20,174] {processor.py:651} INFO - DAG(s) dict_keys(['reto_tecnico_everst']) retrieved from /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 23:04:20,203] {logging_mixin.py:115} INFO - [2023-03-16 23:04:20,202] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-03-16 23:04:20,236] {logging_mixin.py:115} INFO - [2023-03-16 23:04:20,236] {dag.py:2919} INFO - Setting next_dagrun for reto_tecnico_everst to 2023-03-16T23:00:00+00:00, run_after=2023-03-17T00:00:00+00:00
+[2023-03-16 23:04:20,339] {processor.py:161} INFO - Processing /opt/airflow/dags/reto_tecnico_everst.py took 0.991 seconds
+[2023-03-16 23:04:50,556] {processor.py:153} INFO - Started process (PID=2081) to work on /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 23:04:50,557] {processor.py:641} INFO - Processing file /opt/airflow/dags/reto_tecnico_everst.py for tasks to queue
+[2023-03-16 23:04:50,559] {logging_mixin.py:115} INFO - [2023-03-16 23:04:50,558] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 23:04:51,350] {processor.py:651} INFO - DAG(s) dict_keys(['reto_tecnico_everst']) retrieved from /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 23:04:51,385] {logging_mixin.py:115} INFO - [2023-03-16 23:04:51,384] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-03-16 23:04:51,415] {logging_mixin.py:115} INFO - [2023-03-16 23:04:51,415] {dag.py:2919} INFO - Setting next_dagrun for reto_tecnico_everst to 2023-03-16T23:00:00+00:00, run_after=2023-03-17T00:00:00+00:00
+[2023-03-16 23:04:51,453] {processor.py:161} INFO - Processing /opt/airflow/dags/reto_tecnico_everst.py took 0.900 seconds
+[2023-03-16 23:05:21,664] {processor.py:153} INFO - Started process (PID=2087) to work on /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 23:05:21,665] {processor.py:641} INFO - Processing file /opt/airflow/dags/reto_tecnico_everst.py for tasks to queue
+[2023-03-16 23:05:21,666] {logging_mixin.py:115} INFO - [2023-03-16 23:05:21,666] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 23:05:22,416] {processor.py:651} INFO - DAG(s) dict_keys(['reto_tecnico_everst']) retrieved from /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 23:05:22,453] {logging_mixin.py:115} INFO - [2023-03-16 23:05:22,451] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-03-16 23:05:22,490] {logging_mixin.py:115} INFO - [2023-03-16 23:05:22,490] {dag.py:2919} INFO - Setting next_dagrun for reto_tecnico_everst to 2023-03-16T23:00:00+00:00, run_after=2023-03-17T00:00:00+00:00
+[2023-03-16 23:05:22,548] {processor.py:161} INFO - Processing /opt/airflow/dags/reto_tecnico_everst.py took 0.887 seconds
+[2023-03-16 23:05:52,792] {processor.py:153} INFO - Started process (PID=2093) to work on /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 23:05:52,794] {processor.py:641} INFO - Processing file /opt/airflow/dags/reto_tecnico_everst.py for tasks to queue
+[2023-03-16 23:05:52,796] {logging_mixin.py:115} INFO - [2023-03-16 23:05:52,796] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 23:05:53,635] {processor.py:651} INFO - DAG(s) dict_keys(['reto_tecnico_everst']) retrieved from /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 23:05:53,665] {logging_mixin.py:115} INFO - [2023-03-16 23:05:53,664] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-03-16 23:05:53,692] {logging_mixin.py:115} INFO - [2023-03-16 23:05:53,692] {dag.py:2919} INFO - Setting next_dagrun for reto_tecnico_everst to 2023-03-16T23:00:00+00:00, run_after=2023-03-17T00:00:00+00:00
+[2023-03-16 23:05:53,750] {processor.py:161} INFO - Processing /opt/airflow/dags/reto_tecnico_everst.py took 0.966 seconds
+[2023-03-16 23:06:24,624] {processor.py:153} INFO - Started process (PID=2099) to work on /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 23:06:24,625] {processor.py:641} INFO - Processing file /opt/airflow/dags/reto_tecnico_everst.py for tasks to queue
+[2023-03-16 23:06:24,627] {logging_mixin.py:115} INFO - [2023-03-16 23:06:24,626] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 23:06:25,457] {processor.py:651} INFO - DAG(s) dict_keys(['reto_tecnico_everst']) retrieved from /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 23:06:25,487] {logging_mixin.py:115} INFO - [2023-03-16 23:06:25,487] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-03-16 23:06:25,516] {logging_mixin.py:115} INFO - [2023-03-16 23:06:25,516] {dag.py:2919} INFO - Setting next_dagrun for reto_tecnico_everst to 2023-03-16T23:00:00+00:00, run_after=2023-03-17T00:00:00+00:00
+[2023-03-16 23:06:25,562] {processor.py:161} INFO - Processing /opt/airflow/dags/reto_tecnico_everst.py took 0.944 seconds
+[2023-03-16 23:06:55,793] {processor.py:153} INFO - Started process (PID=2105) to work on /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 23:06:55,794] {processor.py:641} INFO - Processing file /opt/airflow/dags/reto_tecnico_everst.py for tasks to queue
+[2023-03-16 23:06:55,795] {logging_mixin.py:115} INFO - [2023-03-16 23:06:55,795] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 23:06:56,604] {processor.py:651} INFO - DAG(s) dict_keys(['reto_tecnico_everst']) retrieved from /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 23:06:56,635] {logging_mixin.py:115} INFO - [2023-03-16 23:06:56,634] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-03-16 23:06:56,662] {logging_mixin.py:115} INFO - [2023-03-16 23:06:56,661] {dag.py:2919} INFO - Setting next_dagrun for reto_tecnico_everst to 2023-03-16T23:00:00+00:00, run_after=2023-03-17T00:00:00+00:00
+[2023-03-16 23:06:56,696] {processor.py:161} INFO - Processing /opt/airflow/dags/reto_tecnico_everst.py took 0.906 seconds
+[2023-03-16 23:07:26,989] {processor.py:153} INFO - Started process (PID=2111) to work on /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 23:07:26,992] {processor.py:641} INFO - Processing file /opt/airflow/dags/reto_tecnico_everst.py for tasks to queue
+[2023-03-16 23:07:26,994] {logging_mixin.py:115} INFO - [2023-03-16 23:07:26,994] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 23:07:27,792] {processor.py:651} INFO - DAG(s) dict_keys(['reto_tecnico_everst']) retrieved from /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 23:07:27,829] {logging_mixin.py:115} INFO - [2023-03-16 23:07:27,828] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-03-16 23:07:27,861] {logging_mixin.py:115} INFO - [2023-03-16 23:07:27,861] {dag.py:2919} INFO - Setting next_dagrun for reto_tecnico_everst to 2023-03-16T23:00:00+00:00, run_after=2023-03-17T00:00:00+00:00
+[2023-03-16 23:07:27,918] {processor.py:161} INFO - Processing /opt/airflow/dags/reto_tecnico_everst.py took 0.944 seconds
+[2023-03-16 23:07:58,163] {processor.py:153} INFO - Started process (PID=2117) to work on /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 23:07:58,164] {processor.py:641} INFO - Processing file /opt/airflow/dags/reto_tecnico_everst.py for tasks to queue
+[2023-03-16 23:07:58,165] {logging_mixin.py:115} INFO - [2023-03-16 23:07:58,165] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 23:07:58,938] {processor.py:651} INFO - DAG(s) dict_keys(['reto_tecnico_everst']) retrieved from /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 23:07:58,970] {logging_mixin.py:115} INFO - [2023-03-16 23:07:58,969] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-03-16 23:07:59,000] {logging_mixin.py:115} INFO - [2023-03-16 23:07:59,000] {dag.py:2919} INFO - Setting next_dagrun for reto_tecnico_everst to 2023-03-16T23:00:00+00:00, run_after=2023-03-17T00:00:00+00:00
+[2023-03-16 23:07:59,035] {processor.py:161} INFO - Processing /opt/airflow/dags/reto_tecnico_everst.py took 0.876 seconds
+[2023-03-16 23:08:29,251] {processor.py:153} INFO - Started process (PID=2126) to work on /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 23:08:29,252] {processor.py:641} INFO - Processing file /opt/airflow/dags/reto_tecnico_everst.py for tasks to queue
+[2023-03-16 23:08:29,253] {logging_mixin.py:115} INFO - [2023-03-16 23:08:29,253] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 23:08:29,712] {processor.py:651} INFO - DAG(s) dict_keys(['reto_tecnico_everst']) retrieved from /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 23:08:29,734] {logging_mixin.py:115} INFO - [2023-03-16 23:08:29,733] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-03-16 23:08:29,768] {logging_mixin.py:115} INFO - [2023-03-16 23:08:29,767] {dag.py:2919} INFO - Setting next_dagrun for reto_tecnico_everst to 2023-03-16T23:00:00+00:00, run_after=2023-03-17T00:00:00+00:00
+[2023-03-16 23:08:29,881] {processor.py:161} INFO - Processing /opt/airflow/dags/reto_tecnico_everst.py took 0.633 seconds
+[2023-03-16 23:09:00,167] {processor.py:153} INFO - Started process (PID=2132) to work on /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 23:09:00,170] {processor.py:641} INFO - Processing file /opt/airflow/dags/reto_tecnico_everst.py for tasks to queue
+[2023-03-16 23:09:00,172] {logging_mixin.py:115} INFO - [2023-03-16 23:09:00,172] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 23:09:01,051] {processor.py:651} INFO - DAG(s) dict_keys(['reto_tecnico_everst']) retrieved from /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 23:09:01,082] {logging_mixin.py:115} INFO - [2023-03-16 23:09:01,081] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-03-16 23:09:01,121] {logging_mixin.py:115} INFO - [2023-03-16 23:09:01,121] {dag.py:2919} INFO - Setting next_dagrun for reto_tecnico_everst to 2023-03-16T23:00:00+00:00, run_after=2023-03-17T00:00:00+00:00
+[2023-03-16 23:09:01,157] {processor.py:161} INFO - Processing /opt/airflow/dags/reto_tecnico_everst.py took 1.006 seconds
+[2023-03-16 23:09:31,348] {processor.py:153} INFO - Started process (PID=2138) to work on /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 23:09:31,350] {processor.py:641} INFO - Processing file /opt/airflow/dags/reto_tecnico_everst.py for tasks to queue
+[2023-03-16 23:09:31,352] {logging_mixin.py:115} INFO - [2023-03-16 23:09:31,352] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 23:09:32,115] {processor.py:651} INFO - DAG(s) dict_keys(['reto_tecnico_everst']) retrieved from /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 23:09:32,145] {logging_mixin.py:115} INFO - [2023-03-16 23:09:32,144] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-03-16 23:09:32,172] {logging_mixin.py:115} INFO - [2023-03-16 23:09:32,171] {dag.py:2919} INFO - Setting next_dagrun for reto_tecnico_everst to 2023-03-16T23:00:00+00:00, run_after=2023-03-17T00:00:00+00:00
+[2023-03-16 23:09:32,217] {processor.py:161} INFO - Processing /opt/airflow/dags/reto_tecnico_everst.py took 0.880 seconds
+[2023-03-16 23:10:02,515] {processor.py:153} INFO - Started process (PID=2144) to work on /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 23:10:02,518] {processor.py:641} INFO - Processing file /opt/airflow/dags/reto_tecnico_everst.py for tasks to queue
+[2023-03-16 23:10:02,520] {logging_mixin.py:115} INFO - [2023-03-16 23:10:02,520] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 23:10:03,293] {processor.py:651} INFO - DAG(s) dict_keys(['reto_tecnico_everst']) retrieved from /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 23:10:03,328] {logging_mixin.py:115} INFO - [2023-03-16 23:10:03,327] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-03-16 23:10:03,358] {logging_mixin.py:115} INFO - [2023-03-16 23:10:03,358] {dag.py:2919} INFO - Setting next_dagrun for reto_tecnico_everst to 2023-03-16T23:00:00+00:00, run_after=2023-03-17T00:00:00+00:00
+[2023-03-16 23:10:03,397] {processor.py:161} INFO - Processing /opt/airflow/dags/reto_tecnico_everst.py took 0.900 seconds
+[2023-03-16 23:10:33,654] {processor.py:153} INFO - Started process (PID=2150) to work on /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 23:10:33,656] {processor.py:641} INFO - Processing file /opt/airflow/dags/reto_tecnico_everst.py for tasks to queue
+[2023-03-16 23:10:33,659] {logging_mixin.py:115} INFO - [2023-03-16 23:10:33,658] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 23:10:34,556] {processor.py:651} INFO - DAG(s) dict_keys(['reto_tecnico_everst']) retrieved from /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 23:10:34,601] {logging_mixin.py:115} INFO - [2023-03-16 23:10:34,600] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-03-16 23:10:34,643] {logging_mixin.py:115} INFO - [2023-03-16 23:10:34,642] {dag.py:2919} INFO - Setting next_dagrun for reto_tecnico_everst to 2023-03-16T23:00:00+00:00, run_after=2023-03-17T00:00:00+00:00
+[2023-03-16 23:10:34,678] {processor.py:161} INFO - Processing /opt/airflow/dags/reto_tecnico_everst.py took 1.032 seconds
+[2023-03-16 23:11:04,833] {processor.py:153} INFO - Started process (PID=2156) to work on /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 23:11:04,836] {processor.py:641} INFO - Processing file /opt/airflow/dags/reto_tecnico_everst.py for tasks to queue
+[2023-03-16 23:11:04,838] {logging_mixin.py:115} INFO - [2023-03-16 23:11:04,838] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 23:11:05,672] {processor.py:651} INFO - DAG(s) dict_keys(['reto_tecnico_everst']) retrieved from /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 23:11:05,710] {logging_mixin.py:115} INFO - [2023-03-16 23:11:05,709] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-03-16 23:11:05,741] {logging_mixin.py:115} INFO - [2023-03-16 23:11:05,741] {dag.py:2919} INFO - Setting next_dagrun for reto_tecnico_everst to 2023-03-16T23:00:00+00:00, run_after=2023-03-17T00:00:00+00:00
+[2023-03-16 23:11:05,871] {processor.py:161} INFO - Processing /opt/airflow/dags/reto_tecnico_everst.py took 1.058 seconds
+[2023-03-16 23:11:36,045] {processor.py:153} INFO - Started process (PID=2162) to work on /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 23:11:36,047] {processor.py:641} INFO - Processing file /opt/airflow/dags/reto_tecnico_everst.py for tasks to queue
+[2023-03-16 23:11:36,050] {logging_mixin.py:115} INFO - [2023-03-16 23:11:36,050] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 23:11:36,832] {processor.py:651} INFO - DAG(s) dict_keys(['reto_tecnico_everst']) retrieved from /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 23:11:36,864] {logging_mixin.py:115} INFO - [2023-03-16 23:11:36,863] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-03-16 23:11:36,892] {logging_mixin.py:115} INFO - [2023-03-16 23:11:36,892] {dag.py:2919} INFO - Setting next_dagrun for reto_tecnico_everst to 2023-03-16T23:00:00+00:00, run_after=2023-03-17T00:00:00+00:00
+[2023-03-16 23:11:36,926] {processor.py:161} INFO - Processing /opt/airflow/dags/reto_tecnico_everst.py took 0.901 seconds
+[2023-03-16 23:12:07,166] {processor.py:153} INFO - Started process (PID=2168) to work on /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 23:12:07,168] {processor.py:641} INFO - Processing file /opt/airflow/dags/reto_tecnico_everst.py for tasks to queue
+[2023-03-16 23:12:07,171] {logging_mixin.py:115} INFO - [2023-03-16 23:12:07,170] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 23:12:07,977] {processor.py:651} INFO - DAG(s) dict_keys(['reto_tecnico_everst']) retrieved from /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 23:12:08,012] {logging_mixin.py:115} INFO - [2023-03-16 23:12:08,012] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-03-16 23:12:08,041] {logging_mixin.py:115} INFO - [2023-03-16 23:12:08,041] {dag.py:2919} INFO - Setting next_dagrun for reto_tecnico_everst to 2023-03-16T23:00:00+00:00, run_after=2023-03-17T00:00:00+00:00
+[2023-03-16 23:12:08,110] {processor.py:161} INFO - Processing /opt/airflow/dags/reto_tecnico_everst.py took 0.950 seconds
+[2023-03-16 23:12:38,353] {processor.py:153} INFO - Started process (PID=2174) to work on /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 23:12:38,354] {processor.py:641} INFO - Processing file /opt/airflow/dags/reto_tecnico_everst.py for tasks to queue
+[2023-03-16 23:12:38,355] {logging_mixin.py:115} INFO - [2023-03-16 23:12:38,355] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 23:12:39,144] {processor.py:651} INFO - DAG(s) dict_keys(['reto_tecnico_everst']) retrieved from /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 23:12:39,174] {logging_mixin.py:115} INFO - [2023-03-16 23:12:39,173] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-03-16 23:12:39,201] {logging_mixin.py:115} INFO - [2023-03-16 23:12:39,201] {dag.py:2919} INFO - Setting next_dagrun for reto_tecnico_everst to 2023-03-16T23:00:00+00:00, run_after=2023-03-17T00:00:00+00:00
+[2023-03-16 23:12:39,240] {processor.py:161} INFO - Processing /opt/airflow/dags/reto_tecnico_everst.py took 0.891 seconds
+[2023-03-16 23:13:09,517] {processor.py:153} INFO - Started process (PID=2180) to work on /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 23:13:09,520] {processor.py:641} INFO - Processing file /opt/airflow/dags/reto_tecnico_everst.py for tasks to queue
+[2023-03-16 23:13:09,522] {logging_mixin.py:115} INFO - [2023-03-16 23:13:09,522] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 23:13:10,455] {processor.py:651} INFO - DAG(s) dict_keys(['reto_tecnico_everst']) retrieved from /opt/airflow/dags/reto_tecnico_everst.py
+[2023-03-16 23:13:10,493] {logging_mixin.py:115} INFO - [2023-03-16 23:13:10,491] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-03-16 23:13:10,521] {logging_mixin.py:115} INFO - [2023-03-16 23:13:10,521] {dag.py:2919} INFO - Setting next_dagrun for reto_tecnico_everst to 2023-03-16T23:00:00+00:00, run_after=2023-03-17T00:00:00+00:00
+[2023-03-16 23:13:10,581] {processor.py:161} INFO - Processing /opt/airflow/dags/reto_tecnico_everst.py took 1.082 seconds

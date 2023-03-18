@@ -1,0 +1,49 @@
+[2023-03-17 20:51:38,961] {taskinstance.py:1159} INFO - Dependencies all met for <TaskInstance: reto_tecnico_everst.table_by_municipio manual__2023-03-17T20:51:12.795663+00:00 [queued]>
+[2023-03-17 20:51:38,971] {taskinstance.py:1159} INFO - Dependencies all met for <TaskInstance: reto_tecnico_everst.table_by_municipio manual__2023-03-17T20:51:12.795663+00:00 [queued]>
+[2023-03-17 20:51:38,971] {taskinstance.py:1356} INFO - 
+--------------------------------------------------------------------------------
+[2023-03-17 20:51:38,972] {taskinstance.py:1357} INFO - Starting attempt 1 of 1
+[2023-03-17 20:51:38,973] {taskinstance.py:1358} INFO - 
+--------------------------------------------------------------------------------
+[2023-03-17 20:51:39,089] {taskinstance.py:1377} INFO - Executing <Task(PythonOperator): table_by_municipio> on 2023-03-17 20:51:12.795663+00:00
+[2023-03-17 20:51:39,104] {standard_task_runner.py:52} INFO - Started process 4407 to run task
+[2023-03-17 20:51:39,108] {standard_task_runner.py:79} INFO - Running: ['***', 'tasks', 'run', 'reto_tecnico_everst', 'table_by_municipio', 'manual__2023-03-17T20:51:12.795663+00:00', '--job-id', '237', '--raw', '--subdir', 'DAGS_FOLDER/reto_tecnico_everst.py', '--cfg-path', '/tmp/tmpuopwbnyh', '--error-file', '/tmp/tmpi7oeps1_']
+[2023-03-17 20:51:39,109] {standard_task_runner.py:80} INFO - Job 237: Subtask table_by_municipio
+[2023-03-17 20:51:39,197] {task_command.py:369} INFO - Running <TaskInstance: reto_tecnico_everst.table_by_municipio manual__2023-03-17T20:51:12.795663+00:00 [running]> on host 7d9c3e4a2f58
+[2023-03-17 20:51:39,426] {taskinstance.py:1571} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=***
+AIRFLOW_CTX_DAG_ID=reto_tecnico_everst
+AIRFLOW_CTX_TASK_ID=table_by_municipio
+AIRFLOW_CTX_EXECUTION_DATE=2023-03-17T20:51:12.795663+00:00
+AIRFLOW_CTX_TRY_NUMBER=1
+AIRFLOW_CTX_DAG_RUN_ID=manual__2023-03-17T20:51:12.795663+00:00
+[2023-03-17 20:51:39,439] {reto_tecnico_everst.py:57} INFO - Leyendo la base extraida del API
+[2023-03-17 20:51:42,273] {reto_tecnico_everst.py:70} INFO - Formateando los tipos de datos en el DataFrame.
+[2023-03-17 20:51:42,274] {taskinstance.py:1889} ERROR - Task failed with exception
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/operators/python.py", line 171, in execute
+    return_value = self.execute_callable()
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/operators/python.py", line 189, in execute_callable
+    return self.python_callable(*self.op_args, **self.op_kwargs)
+  File "/opt/airflow/dags/reto_tecnico_everst.py", line 71, in table_by_municipio
+    n_df['temp'] = n_df['temp'].astype(np.int64)
+  File "/home/airflow/.local/lib/python3.7/site-packages/pandas/core/generic.py", line 5815, in astype
+    new_data = self._mgr.astype(dtype=dtype, copy=copy, errors=errors)
+  File "/home/airflow/.local/lib/python3.7/site-packages/pandas/core/internals/managers.py", line 418, in astype
+    return self.apply("astype", dtype=dtype, copy=copy, errors=errors)
+  File "/home/airflow/.local/lib/python3.7/site-packages/pandas/core/internals/managers.py", line 327, in apply
+    applied = getattr(b, f)(**kwargs)
+  File "/home/airflow/.local/lib/python3.7/site-packages/pandas/core/internals/blocks.py", line 591, in astype
+    new_values = astype_array_safe(values, dtype, copy=copy, errors=errors)
+  File "/home/airflow/.local/lib/python3.7/site-packages/pandas/core/dtypes/cast.py", line 1309, in astype_array_safe
+    new_values = astype_array(values, dtype, copy=copy)
+  File "/home/airflow/.local/lib/python3.7/site-packages/pandas/core/dtypes/cast.py", line 1257, in astype_array
+    values = astype_nansafe(values, dtype, copy=copy)
+  File "/home/airflow/.local/lib/python3.7/site-packages/pandas/core/dtypes/cast.py", line 1174, in astype_nansafe
+    return lib.astype_intsafe(arr, dtype)
+  File "pandas/_libs/lib.pyx", line 679, in pandas._libs.lib.astype_intsafe
+ValueError: invalid literal for int() with base 10: '28.40'
+[2023-03-17 20:51:42,298] {taskinstance.py:1400} INFO - Marking task as FAILED. dag_id=reto_tecnico_everst, task_id=table_by_municipio, execution_date=20230317T205112, start_date=20230317T205138, end_date=20230317T205142
+[2023-03-17 20:51:42,338] {standard_task_runner.py:97} ERROR - Failed to execute job 237 for task table_by_municipio (invalid literal for int() with base 10: '28.40'; 4407)
+[2023-03-17 20:51:42,414] {local_task_job.py:156} INFO - Task exited with return code 1
+[2023-03-17 20:51:42,538] {local_task_job.py:273} INFO - 0 downstream tasks scheduled from follow-on schedule check

@@ -1,0 +1,40 @@
+[2023-03-17 20:55:33,545] {taskinstance.py:1159} INFO - Dependencies all met for <TaskInstance: reto_tecnico_everst.cruzar_base2_datamunicipios manual__2023-03-17T20:51:12.795663+00:00 [queued]>
+[2023-03-17 20:55:33,556] {taskinstance.py:1159} INFO - Dependencies all met for <TaskInstance: reto_tecnico_everst.cruzar_base2_datamunicipios manual__2023-03-17T20:51:12.795663+00:00 [queued]>
+[2023-03-17 20:55:33,557] {taskinstance.py:1356} INFO - 
+--------------------------------------------------------------------------------
+[2023-03-17 20:55:33,558] {taskinstance.py:1357} INFO - Starting attempt 1 of 1
+[2023-03-17 20:55:33,560] {taskinstance.py:1358} INFO - 
+--------------------------------------------------------------------------------
+[2023-03-17 20:55:33,695] {taskinstance.py:1377} INFO - Executing <Task(PythonOperator): cruzar_base2_datamunicipios> on 2023-03-17 20:51:12.795663+00:00
+[2023-03-17 20:55:33,719] {standard_task_runner.py:52} INFO - Started process 4474 to run task
+[2023-03-17 20:55:33,732] {standard_task_runner.py:79} INFO - Running: ['***', 'tasks', 'run', 'reto_tecnico_everst', 'cruzar_base2_datamunicipios', 'manual__2023-03-17T20:51:12.795663+00:00', '--job-id', '240', '--raw', '--subdir', 'DAGS_FOLDER/reto_tecnico_everst.py', '--cfg-path', '/tmp/tmpd2qulb6k', '--error-file', '/tmp/tmpsyrck8r1']
+[2023-03-17 20:55:33,735] {standard_task_runner.py:80} INFO - Job 240: Subtask cruzar_base2_datamunicipios
+[2023-03-17 20:55:33,862] {task_command.py:369} INFO - Running <TaskInstance: reto_tecnico_everst.cruzar_base2_datamunicipios manual__2023-03-17T20:51:12.795663+00:00 [running]> on host 7d9c3e4a2f58
+[2023-03-17 20:55:33,998] {taskinstance.py:1571} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=***
+AIRFLOW_CTX_DAG_ID=reto_tecnico_everst
+AIRFLOW_CTX_TASK_ID=cruzar_base2_datamunicipios
+AIRFLOW_CTX_EXECUTION_DATE=2023-03-17T20:51:12.795663+00:00
+AIRFLOW_CTX_TRY_NUMBER=1
+AIRFLOW_CTX_DAG_RUN_ID=manual__2023-03-17T20:51:12.795663+00:00
+[2023-03-17 20:55:34,131] {taskinstance.py:1889} ERROR - Task failed with exception
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/operators/python.py", line 171, in execute
+    return_value = self.execute_callable()
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/operators/python.py", line 189, in execute_callable
+    return self.python_callable(*self.op_args, **self.op_kwargs)
+  File "/opt/airflow/dags/reto_tecnico_everst.py", line 104, in cruzar_base2_datamunicipios
+    df_base_3 = pd.merge(left=df_base_2, right=df_dt_mun, how='left', on=['ides', 'idmun']) #pd.merge(left=df_base_2, right=df_dt_mun, left_on='nmun', right_on='nmun')
+  File "/home/airflow/.local/lib/python3.7/site-packages/pandas/core/reshape/merge.py", line 119, in merge
+    validate=validate,
+  File "/home/airflow/.local/lib/python3.7/site-packages/pandas/core/reshape/merge.py", line 699, in __init__
+    ) = self._get_merge_keys()
+  File "/home/airflow/.local/lib/python3.7/site-packages/pandas/core/reshape/merge.py", line 1096, in _get_merge_keys
+    right_keys.append(right._get_label_or_level_values(rk))
+  File "/home/airflow/.local/lib/python3.7/site-packages/pandas/core/generic.py", line 1779, in _get_label_or_level_values
+    raise KeyError(key)
+KeyError: 'ides'
+[2023-03-17 20:55:34,197] {taskinstance.py:1400} INFO - Marking task as FAILED. dag_id=reto_tecnico_everst, task_id=cruzar_base2_datamunicipios, execution_date=20230317T205112, start_date=20230317T205533, end_date=20230317T205534
+[2023-03-17 20:55:34,353] {standard_task_runner.py:97} ERROR - Failed to execute job 240 for task cruzar_base2_datamunicipios ('ides'; 4474)
+[2023-03-17 20:55:34,388] {local_task_job.py:156} INFO - Task exited with return code 1
+[2023-03-17 20:55:34,478] {local_task_job.py:273} INFO - 0 downstream tasks scheduled from follow-on schedule check
